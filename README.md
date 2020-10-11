@@ -10,7 +10,7 @@ This was a long journey, for sure. But it was worth every second...
 
 ------
 
-<sub>**Online Certifications:** [Datacamp](https://www.datacamp.com/profile/danielpalacio) - [Dataquest](https://app.dataquest.io/profile/licdanielpalacio)</sub>
+<sub>**Online Certifications:** [Datacamp](https://www.datacamp.com/profile/danielpalacio) - [Sololearn](https://www.sololearn.com/Profile/13506786) - [Dataquest](https://app.dataquest.io/profile/licdanielpalacio)</sub>
 
 <sub>**Other projects from the author:**</sub>
 
