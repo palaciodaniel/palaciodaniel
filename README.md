@@ -4,7 +4,7 @@ Here I will be uploading all the projects I am working at the moment. For all of
 
 Also, despite the fact there is always room for improvement, you will find that all the repositories contain code that is in a pretty finished state. I firmly believe that your GitHub account must be treated like your room, so it is important to keep everything tidy and organized to avoid wasting people's time.
 
-**Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Documentation Writing (Markdown), Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Spreadsheets, Julia
+**Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Documentation Writing (Markdown), Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Spreadsheets, Julia, Image Editing.
 
 This was a long journey, for sure. But it was worth every second...
 
