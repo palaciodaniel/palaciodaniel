@@ -4,17 +4,6 @@ Here I will be uploading all the projects I am working at the moment. For all of
 
 Also, despite the fact there is always room for improvement, you will find that all the repositories contain code that is in a pretty finished state. I firmly believe that your GitHub account must be treated like your room, so it is important to keep everything tidy and organized to avoid wasting people's time.
 
-**Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Markdown, Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Google Sheets, Julia, Binder.
+**Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Markdown, Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Google Sheets, Julia.
 
 This was a long journey, for sure. But it was worth every second...
-
-------
-
-<sub>**Online Certifications:** [Datacamp](https://www.datacamp.com/profile/danielpalacio) - [Sololearn](https://www.sololearn.com/Profile/13506786) - [Dataquest](https://app.dataquest.io/profile/licdanielpalacio)</sub>
-
-<sub>**Other projects from the author:**</sub>
-
-<sub>- **Translations (EN > ES):** [Disturbed](https://store.steampowered.com/app/529780/Disturbed/) (Visual Novel) - [Sisyphus Reborn](https://store.steampowered.com/app/517910/Sisyphus_Reborn/) (Point-and-click short adventure) - [Ray Koefoed's Machinimas](https://www.youtube.com/playlist?list=PL61881DC7100C2A2A)</sub>
-
-<sub>- **Articles (EN):** [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=search&author_id=3090) (98 accepted submissions)</sub>
-
