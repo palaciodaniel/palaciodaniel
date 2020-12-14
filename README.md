@@ -16,27 +16,13 @@
         </tr>   
 </table>
 
-<table align="center">
-        <tr>
-                <td>
-                    <table border="1px" align="center">
-                        <tr><th colspan="3">Data Science - Online Certifications</th></tr>
-                        <tr align="center" bgcolor="DCDCDC">
-                            <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
-                            <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
-                            <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
-                        </tr>   
-                    </table>    
-                </td>
-                <td>
-                    <table border="1px" align="center">
-                        <tr><th colspan="3">Data Science - Online Certifications</th></tr>
-                        <tr align="center" bgcolor="DCDCDC">
-                            <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
-                            <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
-                            <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
-                        </tr>   
-                    </table>    
-                </td>
-        </tr>
+<table border="1px" align="center">
+    <tr>
+        <th colspan="3">Data Science - Online Certifications</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
+        <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
+        <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
+    </tr>   
 </table>
