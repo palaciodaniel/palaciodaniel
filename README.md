@@ -1,5 +1,3 @@
-## Hello World! Welcome to my Portfolio page!
-
 <table border="10px" align="center">
         <tr><th>Hello World! Welcome to my Portfolio page!</th>
         </tr>
