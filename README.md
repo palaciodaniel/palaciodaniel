@@ -1,18 +1,28 @@
 ## Hello World! Welcome to my Portfolio page!
 
-Here I will be uploading all the projects I am working at the moment. For all of them, an effort was made to think about interesting subject ideas; that is, instead of being a mere copy-paste of common exercises from online courses, my objective was not only to showcase my current technical skills, but also to achieve something _more_, whether it be to show how they can be applied to my field (psychology), to create something that can be potentially useful for others, and/or simply for people to have fun.
+<table border="10px" align="center">
+        <tr><th>Hello World! Welcome to my Portfolio page!</th>
+        </tr>
+</table>
 
-Also, despite the fact there is always room for improvement, you will find that all the repositories contain code that is in a pretty finished state. I firmly believe that your GitHub account must be treated like your room, so it is important to keep everything tidy and organized to avoid wasting people's time.
+<table border="1px">
+        <tr><td align="justify">
+                <sub>Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills; they are the result of a long, challenging but highly rewarding journey. Also, unless otherwise noted, they are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and above all, original concepts and ideas. It is important to respect people's time, after all.<br /><br />Enjoy.</sub></td>
+        </tr>
+</table>
 
-**Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Markdown, Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Google Sheets, Julia.
+<table border="2px" align="center">
+        <tr><th colspan="3">Showcased Skills (as of December 2020)</th></tr>
+        <tr align="center">
+                <td>Python (numpy, <i>Data Cleaning</i> -pandas-, <i>Data Visualization</i> -matplotlib, seaborn, GeoPandas, WordCloud-, <i>Machine Learning</i> -scikit learn-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -pytest, TravisCI, codecov-, <i>Natural Language Processing</i> -nltk, fuzzy wuzzy-, <i>API Requesting</i> -requests-, <i>Web Scraping</i> -scrapy-), Markdown, Jupyter Notebook (<i>SQL Querying</i> -ipython sql-), Bash, Google Sheets, Julia.</td>
+        </tr>   
+</table>
 
-This was a long journey, for sure. But it was worth every second...
-
-<table border="1px" align="center">
-        <tr><th bgcolor="AAAA99" colspan="3">Data Science - Online Certifications</th></tr>
+<table border="2px" align="center">
+        <tr><th colspan="3">Data Science - Online Certifications</th></tr>
         <tr align="center" bgcolor="DCDCDC">
-            <td><a style="text-decoration:none" href="https://www.sololearn.com/Profile/13506786" target="_blank">Sololearn</a></td>
-            <td><a style="text-decoration:none" href="https://www.datacamp.com/profile/danielpalacio" target="_blank">Datacamp</a></td>
-            <td><a style="text-decoration:none" href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">Dataquest</a></td>
+            <td><a style="text-decoration:none" href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
+            <td><a style="text-decoration:none" href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
+            <td><a style="text-decoration:none" href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
         </tr>   
 </table>
