@@ -5,7 +5,7 @@
 
 <table border="0px">
         <tr><td align="justify">
-                <sub>Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills; they are the result of a long, challenging but highly rewarding journey. Also, unless otherwise noted, they are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and above all, original concepts and ideas. It is important to respect people's time, after all.<br /><br />Enjoy.</sub></td>
+                <sub>Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills, and represent a long, challenging but still highly rewarding journey that was worth every second. Unless otherwise noted, they are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and original approaches and ideas. Enjoy. </sub></td>
         </tr>
 </table>
 
