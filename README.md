@@ -7,3 +7,12 @@ Also, despite the fact there is always room for improvement, you will find that 
 **Showcased Skills:** Python (numpy, *Data Cleaning* -pandas-, *Data Visualization* -matplotlib, seaborn, GeoPandas, WordCloud-, *Machine Learning* -scikit learn-, *Dataset Creation (CSV)* -Faker-, *Unit Testing* -pytest, TravisCI, codecov-, *Natural Language Processing* -nltk, fuzzy wuzzy-, *API Requesting* -requests-, *Web Scraping* -scrapy-), Markdown, Jupyter Notebook (*SQL Querying* -ipython sql-), Bash, Google Sheets, Julia.
 
 This was a long journey, for sure. But it was worth every second...
+
+<table border="1px" align="center">
+        <tr><th bgcolor="AAAA99" colspan="3">Data Science - Online Certifications</th></tr>
+        <tr align="center" bgcolor="DCDCDC">
+            <td><a style="text-decoration:none" href="https://www.sololearn.com/Profile/13506786" target="_blank">Sololearn</a></td>
+            <td><a style="text-decoration:none" href="https://www.datacamp.com/profile/danielpalacio" target="_blank">Datacamp</a></td>
+            <td><a style="text-decoration:none" href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">Dataquest</a></td>
+        </tr>   
+</table>
