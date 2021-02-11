@@ -18,11 +18,87 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="3">Data Science - Online Certifications</th>
+        <th colspan="3">Data Science - Online Certifications</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
         <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
         <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
+    </tr>
+</table>
+
+<table border="1px" align="center">
+    <tr>
+        <th colspan="4">DATA VISUALIZATION</th>
+    </tr>
+    <tr>
+        <th>Project's Name</th>
+        <th>Brief Description</th>
+        <th>Languages & Libraries</th>
+        <th>Binder</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb">Plotly, the Universe and Me</a></td>
+        <td>An interactive diagram of the Solar System.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>pandas, plotly</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/art_001_chess/blob/main/chess.ipynb"> ART 001 - Chess</a></td>
+        <td>Building figures with seaborn.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>pandas, seaborn</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/art_002_any_colour_you_like/blob/main/any_colour_you_like.ipynb"> ART 002 - Any Colour You Like</a></td>
+        <td>Applying colormaps to submitted images.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, scikit-image</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/art_003_drive_my_car_with_missingno/blob/main/art_003_drawing_figures_with_missingno.ipynb">ART 003 - Drive my Car with Missingno</a></td>
+        <td>A creative use of the Missingno library to display images.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, missingno, numpy, pandas, scikit-image</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb">ART 004 - Natural Language Processing (NLP) and WordClouds on horror books</a></td>
+        <td>Getting the most common words and visualizing them with figures created by myself.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, nltk, wordcloud</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">ART 005 - Hypercube</a></td>
+        <td>Building an interactive four-dimensional cube.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>jgraph</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">YES</a></td>
     </tr>
 </table>
