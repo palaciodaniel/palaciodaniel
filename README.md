@@ -112,3 +112,37 @@
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">YES</a></td>
     </tr>
 </table>
+
+<br />
+
+<table border="1px" align="center">
+    <tr>
+        <th colspan="4">MISC.</th>
+    </tr>
+    <tr>
+        <th>Project's Name</th>
+        <th>Brief Description</th>
+        <th>Languages & Libraries</th>
+        <th>Binder</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a></td>
+        <td>A spreadsheet to keep Steam earnings in check.</td>
+        <td align="left">
+                <ul>
+                    <li>Google Sheets</li>
+                </ul>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></td>
+        <td>This page you are seeing now. :)</td>
+        <td align="left">
+                <ul>
+                    <li>HTML</li>
+                </ul>
+        </td>
+        <td>-</td>
+    </tr>
+</table>
