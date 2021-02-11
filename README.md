@@ -200,8 +200,9 @@
 
 <br />
 
-<table border="1px">
-    <tr align="center">
+<table border="1px" align="center">
+    <tr>
         <th>HIGHLIGHTED PROJECTS</th>
     </tr>
+    <tr><td></td></tr>
 </table>
