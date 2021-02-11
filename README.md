@@ -80,6 +80,58 @@
 
 <table border="1px" align="center">
     <tr>
+        <th colspan="4">DATA EXPLORATION & DATA CLEANING</th>                   
+    </tr>
+    <tr>
+        <th>Project's Name</th>
+        <th>Brief Description</th>
+        <th>Languages & Libraries</th>
+        <th>Binder</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb">Doom Cacowards - SQL in Jupyter Notebook</a></td>
+        <td>
+            <ul>
+                    <li>A database that was built from scratch using SQLite and then saved as a CSV file.</li>
+                    <li>Highly detailed <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md">documentation</a> included. <b>Please read it before entering the database</b>.</li>
+                    <li>The Jupyter Notebook was configured to allow SQL queries. You can write your own ones via the Binder link.</li>
+            </ul>
+        </td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>ipython-sql</i>)</li>
+                    <li>SQL</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb">Data Cleaning - Estudio de Discapacidad 2018</a></td>
+        <td>Limpiando los nombres de columnas y variables de un dataset para una mayor legibilidad de la información.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>missingno, pandas</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb">Knee-Deep in the Dataset</a></td>
+        <td>Altering the indexes from a pandas' DataFrame to improve organization.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>pandas</i>)</li>
+                </ul>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+<table border="1px" align="center">
+    <tr>
         <th colspan="4">DATA VISUALIZATION</th>
     </tr>
     <tr>
