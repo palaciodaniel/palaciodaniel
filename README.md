@@ -29,6 +29,57 @@
 
 <table border="1px" align="center">
     <tr>
+        <th colspan="4">MACHINE LEARNING</th>                   
+    </tr>
+    <tr>
+        <th>Project's Name</th>
+        <th>Brief Description</th>
+        <th>Languages & Libraries</th>
+        <th>Binder</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+            <td><b>Predicting Psychotherapy Success with Machine Learning</b><br>[ Steps: <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step1_building_patient_df.ipynb">1</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step2_cleaning_the_dataset.ipynb">2</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step3_applying_ml_to_df.ipynb">3</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step4_improving_ml_with_gridsearch.ipynb">4</a> ]</td>
+        <td align="left">
+            <ul>
+                <li>A supervised Machine Learning model involving binary classification (success or failure) for different patients and their respective psychotherapies. It also includes an application of Grid Search.</li>
+                <li>The dataset was created from scratch with fictional data, to avoid privacy issues.</li>
+                    <li>Alternative approaches were included, involving <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/alternate_approaches/decision_tree/step_cancelled_using_decision_trees.ipynb">Decision Trees</a> and <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/tree/master/alternate_approaches/ordinal_encoding">Ordinal Encoding</a>.</li>
+            </ul>
+        </td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>Faker, matplotlib, pandas, scikit-learn</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb">Killing Infestations with K-Means</a></td>
+        <td>An example of an unsupervised Machine Learning model.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, numpy, scikit-learn</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb">Predicting Earnings on the Steam Market (after commissions)</a></td>
+        <td>A supervised Machine Learning model involving regression.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb">YES</a></td>
+    </tr>
+</table>
+
+<br />
+
+<table border="1px" align="center">
+    <tr>
         <th colspan="4">DATA VISUALIZATION</th>
     </tr>
     <tr>
