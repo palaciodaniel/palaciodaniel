@@ -38,6 +38,16 @@
         <th>Binder</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/visualizing_day_care_centers_locations.ipynb">Day Care Centers Locations on Buenos Aires</a></td>
+        <td>Showing the coordinates of these places on a map built from scratch.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>descartes, GeoPandas, matplotlib, pandas</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb">Plotly, the Universe and Me</a></td>
         <td>An interactive diagram of the Solar System.</td>
         <td align="left">
