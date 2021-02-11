@@ -220,6 +220,52 @@
 
 <table border="1px" align="center">
     <tr>
+        <th colspan="4">PROGRAMMING</th>
+    </tr>
+    <tr>
+        <th>Project's Name</th>
+        <th>Brief Description</th>
+        <th>Languages & Libraries</th>
+        <th>Binder</th>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/lambda_swapi_v2.0">Lambda SWAPI v. 2.0</a></td>
+        <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>fuzzywuzzy, python-Levenshtein, requests</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></td>
+        <td>A game to improve the speed of your mental calculations.</td>
+        <td align="left">
+                <ul>
+                    <li>Bash script</li>
+                </ul>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Channard's Psychosis Inventory</a></td>
+        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, numpy, seaborn</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">YES</a></td>
+    </tr>
+</table>
+
+<br />
+
+<table border="1px" align="center">
+    <tr>
         <th colspan="4">MISC.</th>
     </tr>
     <tr>
