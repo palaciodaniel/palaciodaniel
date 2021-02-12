@@ -80,7 +80,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">DATA EXPLORATION & DATA CLEANING</th>                   
+        <th colspan="4">DATA EXPLORATION & DATA MANIPULATION</th>                   
     </tr>
     <tr>
         <th>Project's Name</th>
@@ -113,6 +113,16 @@
                 <ul>
                     <li>Jupyter Notebook</li>
                     <li>Python (<i>missingno, pandas</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb">My Datacamp's Completed Courses List</a></td>
+        <td>Creating a Spider to web-crawl my long Datacamp profile with the objective to build an easily-readable list of all the courses I completed.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>Scrapy</i>)</li>
                 </ul>
         </td>
     </tr>
@@ -271,7 +281,12 @@
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with Julia</a></td>
         <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.</td>
-        <td>Julia</td>
+        <td align="left">
+                <ul>
+                    <li>Julia</li>
+                    <li>Jupyter Notebook</li>
+                </ul>
+        </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">YES</a></td>
     </tr>
 </table>
