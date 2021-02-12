@@ -289,6 +289,18 @@
         </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">YES</a></td>
     </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/discount_calculator">Discount Calculator</a></td>
+        <td>A small but robust function that was written while learning Unit Testing.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>pytest</i>)</li>
+                    <li>GitHub (<i>TravisCI, codecov</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">YES</a></td>
+    </tr>    
 </table>
 
 <br />
@@ -311,8 +323,14 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></td>
-        <td>This page you are seeing now. :)</td>
+        <td>This page you are seeing now, actually.</td>
         <td>HTML</td>
+        <td>-</td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a></td>
+        <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson during an hour.</td>
+        <td>Python</td>
         <td>-</td>
     </tr>
 </table>
