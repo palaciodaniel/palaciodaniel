@@ -5,11 +5,11 @@
 
 <table border="0px">
         <tr><td align="justify">
-                <sub>Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills, and for that reason they are the result of a long, challenging, but ultimately rewarding journey that was worth every second. Unless otherwise noted, these projects are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and somewhat unusual approaches and ideas. Enjoy. </sub></td>
+                Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills, and for that reason they are the result of a long, challenging, but ultimately rewarding journey that was worth every second. Unless otherwise noted, these projects are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and somewhat unusual approaches and ideas. <br><br>Enjoy.</td>
         </tr>
 </table>
 
-<table border="1px" align="center">
+<table border="2px" align="center">
         <tr><th>Summary of Showcased Skills</th></tr>
         <tr>
             <td align="center"><sub>Python (numpy, <i>Data Cleaning</i> -pandas-, <i>Data Visualization</i> -matplotlib, WordCloud, seaborn, Plotly, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -scikit learn-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -pytest, TravisCI, codecov-, <i>Natural Language Processing</i> -nltk, fuzzy wuzzy-, <i>API Requesting</i> -requests-, <i>Web Scraping</i> -scrapy-), Markdown & HTML, Jupyter Notebook (<i>SQL Querying</i> -ipython sql-), Bash, Google Sheets, Julia.</sub></td>
@@ -243,11 +243,7 @@
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></td>
         <td>A game to improve the speed of your mental calculations. A demonstrative video is available <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
-        <td align="left">
-                <ul>
-                    <li>Bash script</li>
-                </ul>
-        </td>
+        <td>Bash script</td>
         <td>-</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
@@ -272,6 +268,12 @@
         </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">YES</a></td>
     </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with Julia</a></td>
+        <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.</td>
+        <td>Julia</td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">YES</a></td>
+    </tr>
 </table>
 
 <br />
@@ -289,21 +291,13 @@
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a></td>
         <td>A spreadsheet to keep Steam earnings in check.</td>
-        <td align="left">
-                <ul>
-                    <li>Google Sheets</li>
-                </ul>
-        </td>
+        <td>Google Sheets</td>
         <td>-</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></td>
         <td>This page you are seeing now. :)</td>
-        <td align="left">
-                <ul>
-                    <li>HTML</li>
-                </ul>
-        </td>
+        <td>HTML</td>
         <td>-</td>
     </tr>
 </table>
