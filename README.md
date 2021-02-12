@@ -328,7 +328,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a></td>
-        <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson during an hour.</td>
+        <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
         <td>Python</td>
         <td>-</td>
     </tr>
