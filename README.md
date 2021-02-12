@@ -118,7 +118,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb">My Datacamp's Completed Courses List</a></td>
-        <td>Creating a Spider to web-crawl my long Datacamp profile with the objective to build an easily-readable list of all the courses I completed.</td>
+            <td>Creating a Spider to <i>web-crawl</i> my long Datacamp profile with the objective to build an easily-readable list of all the courses I completed.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -211,7 +211,6 @@
                     <li>Python (<i>matplotlib, nltk, wordcloud</i>)</li>
                 </ul>
         </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">ART 005 - Hypercube</a></td>
