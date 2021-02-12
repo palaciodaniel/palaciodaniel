@@ -251,7 +251,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></td>
-        <td>A game to improve the speed of your mental calculations. A demonstrative video is available <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
+        <td>A game to improve the speed of your mental calculations. A video showcasing its gameplay can be seen <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
         <td>Bash script</td>
         <td>-</td>
     </tr>
