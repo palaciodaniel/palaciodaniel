@@ -267,7 +267,7 @@
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Typing Speed Test</a></td>
+        <td><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></td>
         <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.</td>
         <td align="left">
                 <ul>
