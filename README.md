@@ -213,7 +213,7 @@
         </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">ART 005 - Hypercube</a></td>
+        <td><a href="https://github.com/palaciodaniel/art_005_hypercube">ART 005 - Hypercube</a></td>
         <td>Building an interactive four-dimensional cube.</td>
         <td align="left">
                 <ul>
