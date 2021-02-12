@@ -214,7 +214,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/art_005_hypercube">ART 005 - Hypercube</a></td>
-        <td>Building an interactive four-dimensional cube.</td>
+        <td>Building an interactive four-dimensional cube. A demonstrative video is available <a href="https://youtu.be/bXawbssqm30">here</a>.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -239,7 +239,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/lambda_swapi_v2.0">Lambda SWAPI v. 2.0</a></td>
-        <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies.</td>
+        <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies. Several examples were tried in <a href="https://youtu.be/EGK-PI7eHZQ">this video</a>.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -257,7 +257,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Channard's Psychosis Inventory</a></td>
-        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well.</td>
+        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how it works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -268,7 +268,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></td>
-        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.</td>
+        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to it.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -279,7 +279,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with Julia</a></td>
-        <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.</td>
+        <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go. <a href="https://youtu.be/TE6U7vVYqfI">This video</a> shows how you can play it.</td>
         <td align="left">
                 <ul>
                     <li>Julia</li>
@@ -290,7 +290,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/discount_calculator">Discount Calculator</a></td>
-        <td>A small but robust function that was written while learning Unit Testing.</td>
+        <td>A small but robust function that was written while learning Unit Testing. You can see how it works <a href="https://youtu.be/yCVA_Cloqas">here</a>.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
