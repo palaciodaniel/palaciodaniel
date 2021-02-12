@@ -338,6 +338,7 @@
 <br />
 
 <table border="1px" align="center">
+    <tr><td></td></tr>
     <tr>
         <th>HIGHLIGHTED PROJECTS</th>
     </tr>
