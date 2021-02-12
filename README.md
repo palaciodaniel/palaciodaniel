@@ -234,14 +234,15 @@
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
-                    <li>Python (<i>fuzzywuzzy, python-Levenshtein, requests</i>)</li>
+                    <li>Python (<i>fuzzywuzzy, python-Levenshtein, pytest, requests</i>)</li>
+                    <li>GitHub (<i>TravisCI, codecov</i>)</li>
                 </ul>
         </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></td>
-        <td>A game to improve the speed of your mental calculations.</td>
+        <td>A game to improve the speed of your mental calculations. A demonstrative video is available <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
         <td align="left">
                 <ul>
                     <li>Bash script</li>
@@ -259,6 +260,17 @@
                 </ul>
         </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Typing Speed Test</a></td>
+        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</li>
+                </ul>
+        </td>
+        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">YES</a></td>
     </tr>
 </table>
 
