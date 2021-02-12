@@ -257,7 +257,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Channard's Psychosis Inventory</a></td>
-        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how it works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
+        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how the program works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
@@ -268,7 +268,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></td>
-        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to it.</td>
+        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to try it.</td>
         <td align="left">
                 <ul>
                     <li>Jupyter Notebook</li>
