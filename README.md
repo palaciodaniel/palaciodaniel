@@ -90,6 +90,22 @@
         <th>Binder</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td><b>Global Sales Analysis</b><br>[ <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales">Español</a> ]</td>
+        <td>
+            <ul>
+                <li>Complex data analysis (six notebooks!) about the sales of an international supermarket chain.</li>
+                <li>Features dataset joins, data cleaning, visualizations and extensive reports of insights gained.</li>
+                <li>The provided datasets had two key issues: columns without descriptions and undefined currency or currencies, so risks and limitations due to these inconveniences were also documented.</li>
+            </ul>
+        </td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>matplotlib, pandas, plotly, seaborn</i>)</li>
+                </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb">Doom Cacowards - SQL in Jupyter Notebook</a></td>
         <td>
             <ul>
