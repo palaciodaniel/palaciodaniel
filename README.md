@@ -12,17 +12,18 @@
 <table border="2px" align="center">
         <tr><th>Summary of Showcased Skills</th></tr>
         <tr>
-            <td align="center"><sub>Python (numpy, <i>Data Cleaning</i> -pandas-, <i>Data Visualization</i> -matplotlib, WordCloud, seaborn, Plotly, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -scikit learn-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -pytest, TravisCI, codecov-, <i>Natural Language Processing</i> -nltk, fuzzy wuzzy-, <i>API Requesting</i> -requests-, <i>Web Scraping</i> -scrapy-), Markdown & HTML, Jupyter Notebook (<i>SQL Querying</i> -ipython sql-), Bash, Google Sheets, Julia.</sub></td>
+            <td align="center"><sub>Python (numpy, <i>Data Cleaning</i> -pandas-, <i>Data Visualization</i> -matplotlib, WordCloud, seaborn, Plotly, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -scikit learn-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -pytest, TravisCI, codecov-, <i>Natural Language Processing</i> -nltk, fuzzy wuzzy-, <i>API Requesting</i> -requests-, <i>Web Scraping</i> -scrapy-), Markdown & HTML, Jupyter Notebook (<i>SQL Querying</i> -ipython sql-), Bash, Google Sheets, Julia, Go, Rust.</sub></td>
         </tr>   
 </table>
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="3">Data Science - Online Certifications</th>                   
+        <th colspan="4">Data Science - Online Certifications</th>                   
     </tr>
-    <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
+    <tr align="center" bgcolor="DCDCDC">        
         <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
+        <td><a href="https://app.pluralsight.com/profile/palaciodaniel">Pluralsight</a></td>
+        <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
         <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
     </tr>
 </table>
@@ -80,7 +81,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">DATA EXPLORATION & DATA MANIPULATION</th>                   
+        <th colspan="4">DATA MANIPULATION</th>                   
     </tr>
     <tr>
         <th>Project's Name</th>
