@@ -336,6 +336,12 @@
                 </ul>
         </td>
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">YES</a></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/horse_race_with_go">Horse Race with Go</a></td>
+            <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
+        <td align="center">Go</td>
+        <td><a href="https://play.golang.org/p/OIQCnBzJhgd">Go's Playground</a></td>
     </tr>    
 </table>
 
