@@ -27,7 +27,7 @@
         <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
     </tr>
     <tr>
-            <td colspan="4" align="center"><sub><i>*Formal qualifications will be provided under request.</i></sub></td>                   
+            <td colspan="4" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
     </tr>
 </table>
 
