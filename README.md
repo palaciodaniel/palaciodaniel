@@ -287,6 +287,17 @@
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop">Calculating Expiration Dates with OOP</a></td>
+        <td>Using Object Oriented Programming (OOP), along with a Python library for dates, to calculate the expiration date of different products. These products can also be opened, thus affecting the expiration date accordingly. Examples were added to test different situations.</td>
+        <td align="left">
+                <ul>
+                    <li>Jupyter Notebook</li>
+                    <li>Python (<i>datetime</i>)</li>
+                </ul>
+        </td>
+        <td></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></td>
         <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to try it.</td>
         <td align="left">
