@@ -18,13 +18,16 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">Data Science - Online Certifications</th>                   
+        <th colspan="4">Online Certifications*</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
         <td><a href="https://www.datacamp.com/profile/danielpalacio">Datacamp</a></td>
         <td><a href="https://app.pluralsight.com/profile/palaciodaniel">Pluralsight</a></td>
         <td><a href="https://www.sololearn.com/Profile/13506786">Sololearn</a></td>
         <td><a href="https://app.dataquest.io/profile/licdanielpalacio">Dataquest</a></td>
+    </tr>
+    <tr>
+            <td colspan="4" align="center"><sub><i>*Formal qualifications will be provided under request.</i></sub></td>                   
     </tr>
 </table>
 
