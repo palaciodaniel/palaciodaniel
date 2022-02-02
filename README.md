@@ -309,6 +309,12 @@
         <td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td><a href="https://github.com/palaciodaniel/fahrencelsius">Fahrencelsius</a></td>
+        <td>A temperature converter that was written after reading until the section 3.1 of <a href="https://doc.rust-lang.org/book/">The Book</a>, Rust's official documentation. Although there are more than a dozen chapters left, the small program is already robust and does not break even when dealing with intentionally wrong inputs.</td>
+        <td align="center">Rust</td>
+        <td></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
         <td><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with Julia</a></td>
         <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go. <a href="https://youtu.be/TE6U7vVYqfI">This video</a> shows how you can play it.</td>
         <td align="left">
