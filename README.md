@@ -349,31 +349,32 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">MISC.</th>
+        <th colspan="2">MISC.</th>
     </tr>
     <tr>
-        <th>Project's Name</th>
+        <th>Project's Name & Libraries</th>
         <th>Brief Description</th>
-        <th>Languages & Libraries</th>
-        <th>Binder</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a></td>
+        <td>
+            <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a><br />
+            <p>{ Google Sheets }</p>
+        </td>
         <td>A spreadsheet to keep Steam earnings in check.</td>
-        <td>Google Sheets</td>
-        <td>-</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></td>
+        <td>
+            <a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a><br />
+            <p>{ HTML }</p>
+        </td>
         <td>This page you are seeing now, actually.</td>
-        <td>HTML</td>
-        <td>-</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a></td>
+        <td>
+            <a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a><br />
+            <p>{ Python }</p>
+        </td>
         <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
-        <td>Python</td>
-        <td>-</td>
     </tr>
 </table>
 
