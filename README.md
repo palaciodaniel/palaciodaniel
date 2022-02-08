@@ -349,7 +349,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">MISC.</th>
+        <th colspan="2">OTHER PROJECTS</th>
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -357,21 +357,21 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a><br />
+            <b><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a></b><br />
             <p>{ Google Sheets }</p>
         </td>
         <td>A spreadsheet to keep Steam earnings in check.</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a><br />
+            <b><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></b><br />
             <p>{ HTML }</p>
         </td>
         <td>This page you are seeing now, actually.</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a><br />
+                <b><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a></b><br />
             <p>{ Python }</p>
         </td>
         <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
