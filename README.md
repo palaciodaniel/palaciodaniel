@@ -83,16 +83,19 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">DATA MANIPULATION</th>                   
+        <th colspan="2">DATA MANIPULATION</th>                   
     </tr>
     <tr>
-        <th>Project's Name</th>
+        <th>Project's Name & Libraries</th>
         <th>Brief Description</th>
-        <th>Languages & Libraries</th>
-        <th>Binder</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b>Global Sales Analysis</b><br>[ <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales">Español</a> ]</td>
+        <td>
+            <b>Global Sales Analysis</b><br>
+            [ <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales">Español</a> ]<br><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>matplotlib, pandas, plotly, seaborn</i>)</b></sub><br>
+        </td>
         <td>
             <ul>
                 <li>Complex data analysis (six notebooks!) about the sales of an international supermarket chain.</li>
@@ -100,60 +103,51 @@
                 <li>The provided datasets had two key issues: columns without descriptions and undefined currency or currencies, so risks and limitations due to these inconveniences were also documented.</li>
             </ul>
         </td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>matplotlib, pandas, plotly, seaborn</i>)</li>
-                </ul>
-        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb">Doom Cacowards - SQL in Jupyter Notebook</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb">Doom Cacowards - SQL in Jupyter Notebook</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - SQL<br>
+            - Python (<i>ipython-sql</i>)</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>
             <ul>
-                    <li>A database that was built from scratch using SQLite and then saved as a CSV file.</li>
-                    <li>Highly detailed <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md">documentation</a> included. <b>Please read it before entering the database</b>.</li>
-                    <li>The Jupyter Notebook was configured to allow SQL queries. You can write your own ones via the Binder link.</li>
+                <li>A database that was built from scratch using SQLite and then saved as a CSV file.</li>
+                <li>Highly detailed <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md">documentation</a> included. <b>Please read it before entering the database</b>.</li>
+                <li>The Jupyter Notebook was configured to allow SQL queries. You can write your own ones via the Binder link.</li>
             </ul>
         </td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>ipython-sql</i>)</li>
-                    <li>SQL</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb">Data Cleaning - Estudio de Discapacidad 2018</a></b></td>
-        <td>Limpiando los nombres de columnas y variables de un dataset para una mayor legibilidad de la información.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>missingno, pandas</i>)</li>
-                </ul>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb">Data Cleaning - Estudio de Discapacidad 2018</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>missingno, pandas</i>)<b></sub><br>
+            <br>
         </td>
+        <td>Limpiando los nombres de columnas y variables de un dataset para una mayor legibilidad de la información.</td>        
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb">My Datacamp's Completed Courses List</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb">My Datacamp's Completed Courses List</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>Scrapy</i>)</b></sub><br>
+            <br>
+        </td>
             <td>Creating a Spider to <i>web-crawl</i> my long Datacamp profile with the objective to build an easily-readable list of all the courses I completed.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>Scrapy</i>)</li>
-                </ul>
-        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb">Knee-Deep in the Dataset</a></b></td>
-        <td>Altering the indexes from a pandas' DataFrame to improve organization.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>pandas</i>)</li>
-                </ul>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb">Knee-Deep in the Dataset</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>pandas</i>)</b></sub><br>
+            <br>
         </td>
+        <td>Altering the indexes from a pandas' DataFrame to improve organization.</td>
     </tr>
 </table>
 
