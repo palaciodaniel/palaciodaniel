@@ -342,7 +342,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>Popping Balloons!</b><br>
+            <b><a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons">Popping Balloons!</a></b><br>
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
             <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Interactive</a></td></tr>
