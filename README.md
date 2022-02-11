@@ -73,7 +73,7 @@
             - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub></b><br><br>
             <table border="1px" align="center">
             <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb">Run / Ejecutar</a></td></tr>
-            </table><br>
+            </table>
         </td>
         <td>A supervised Machine Learning model involving regression.</td>
     </tr>
