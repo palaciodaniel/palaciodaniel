@@ -44,7 +44,7 @@
     <tr align="center" bgcolor="DCDCDC">
             <td>
                 <b>Predicting Psychotherapy Success with Machine Learning</b><br>
-                <b><sub>- Jupyter Notebook,<br>
+                <b><sub>- Jupyter Notebook<br>
                 - Python (<i>Faker, matplotlib, pandas, scikit-learn</i>)</sub></b><br><br>
                 [ Steps: <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step1_building_patient_df.ipynb">1</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step2_cleaning_the_dataset.ipynb">2</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step3_applying_ml_to_df.ipynb">3</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step4_improving_ml_with_gridsearch.ipynb">4</a> ]<br>
                 <br>
@@ -60,7 +60,7 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb">Killing Infestations with K-Means</a></b><br>
-            <b><sub>- Jupyter Notebook,<br>
+            <b><sub>- Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, scikit-learn</i>)</sub></b><br>
             <br>
         </td>
@@ -69,7 +69,7 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb">Predicting Earnings on the Steam Market (after commissions)</a></b><br>
-            <b><sub>- Jupyter Notebook,<br>
+            <b><sub>- Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub></b><br><br>
             <table border="1px" align="center">
             <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb">Interactive</a></td></tr>
