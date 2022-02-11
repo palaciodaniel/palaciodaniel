@@ -96,7 +96,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, pandas, plotly, seaborn</i>)</b></sub><br>
         </td>
-        <td>
+        <td align="left">
             <ul>
                 <li>Complex data analysis (six notebooks!) about the sales of an international supermarket chain.</li>
                 <li>Features dataset joins, data cleaning, visualizations and extensive reports of insights gained.</li>
@@ -114,7 +114,7 @@
             <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>
+        <td align="left">
             <ul>
                 <li>A database that was built from scratch using SQLite and then saved as a CSV file.</li>
                 <li>Highly detailed <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md">documentation</a> included. <b>Please read it before entering the database</b>.</li>
@@ -242,103 +242,117 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="4">PROGRAMMING</th>
+        <th colspan="2">PROGRAMMING</th>
     </tr>
     <tr>
-        <th>Project's Name</th>
+        <th>Project's Name & Libraries</th>
         <th>Brief Description</th>
-        <th>Languages & Libraries</th>
-        <th>Binder</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/lambda_swapi_v2.0">Lambda SWAPI v. 2.0</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/lambda_swapi_v2.0">Lambda SWAPI v. 2.0</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+                    - Python (<i>fuzzywuzzy, python-Levenshtein, pytest, requests</i>)<br>
+                    - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies. Several examples were tried in <a href="https://youtu.be/EGK-PI7eHZQ">this video</a>.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>fuzzywuzzy, python-Levenshtein, pytest, requests</i>)</li>
-                    <li>GitHub (<i>TravisCI, codecov</i>)</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/you_failed_in_life">You Failed in Life</a></b><br>
+            <sub><b>{ Bash script }</b></sub><br>
+            <br>
+        </td>
         <td>A game to improve the speed of your mental calculations. A video showcasing its gameplay can be seen <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
-        <td>Bash script</td>
-        <td>-</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Channard's Psychosis Inventory</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/channard_psychosis_inventory">Channard's Psychosis Inventory</a></b><br>
+            <sub><b>-Jupyter Notebook<br>
+            - Python (<i>matplotlib, numpy, seaborn</i>)</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how the program works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>matplotlib, numpy, seaborn</i>)</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop">Calculating Expiration Dates with OOP</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop">Calculating Expiration Dates with OOP</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>datetime</i>)</sub><b><br>
+            <br>
+        </td>
         <td>Using Object Oriented Programming (OOP), along with a Python library for dates, to calculate the expiration date of different products. These products can also be opened, thus affecting the expiration date accordingly. Examples were added to test different situations.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>datetime</i>)</li>
-                </ul>
-        </td>
-        <td></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook">Typing Speed Test</a></b><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to try it.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/fahrencelsius">Fahrencelsius</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/fahrencelsius">Fahrencelsius</a></b><br>
+            <sub><b>{ Rust }</b></sub><br>
+            <br>
+        </td>
         <td>A temperature converter that was written after reading until the section 3.1 of <a href="https://doc.rust-lang.org/book/">The Book</a>, Rust's official documentation. Although there are more than a dozen chapters left, the small program is already robust and does not break even when dealing with intentionally wrong inputs.</td>
-        <td align="center">Rust</td>
-        <td></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with Julia</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia">Defusing Bombs in the Dark with</a></b><br>
+            <b>{ Julia }</b><br>
+            <sub><b>- Jupyter Notebook</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go. <a href="https://youtu.be/TE6U7vVYqfI">This video</a> shows how you can play it.</td>
-        <td align="left">
-                <ul>
-                    <li>Julia</li>
-                    <li>Jupyter Notebook</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/discount_calculator">Discount Calculator</a></b></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/discount_calculator">Discount Calculator</a></b><br>
+                <sub><b>- Jupyter Notebook<br>
+                - Python (<i>pytest</i>)<br>
+                - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
+                <table border="1px" align="center">
+            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">Interactive</a></td></tr>
+            </table>
+        </td>
         <td>A small but robust function that was written while learning Unit Testing. You can see how it works <a href="https://youtu.be/yCVA_Cloqas">here</a>.</td>
-        <td align="left">
-                <ul>
-                    <li>Jupyter Notebook</li>
-                    <li>Python (<i>pytest</i>)</li>
-                    <li>GitHub (<i>TravisCI, codecov</i>)</li>
-                </ul>
-        </td>
-        <td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">YES</a></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
-        <td><b><a href="https://github.com/palaciodaniel/horse_race_with_go">Horse Race with Go</a></b></td>
-            <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
-        <td align="center">Go</td>
-        <td><a href="https://play.golang.org/p/OIQCnBzJhgd">Go's Playground</a></td>
+        <td>
+            <b><a href="https://github.com/palaciodaniel/horse_race_with_go">Horse Race with</a></b><br>
+            <b>{ Go }</b><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd">Interactive</a></td></tr>
+            </table>
+        </td>
+        <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td>
+            <b>Popping Balloons!</b><br>
+            <sub><b>{ Python }</b></sub><br><br>
+            <table border="1px" align="center">
+            <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Interactive</a></td></tr>
+            </table>
+        </td>
+        <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
     </tr>    
 </table>
 
-<br />
+<br>
 
 <table border="1px" align="center">
     <tr>
@@ -351,23 +365,18 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing">Steam Summer Sale 2020 - Sold Trading Cards</a></b><br />
-            <p>{ Google Sheets }</p>
+            <sub><b>{ Google Sheets }</b></sub><br>
+            <br>
         </td>
         <td>A spreadsheet to keep Steam earnings in check.</td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/palaciodaniel">My GitHub's Profile Page</a></b><br />
-            <p>{ HTML }</p>
+            <sub><b>{ HTML }</b></sub><br>
+            <br>
         </td>
         <td>This page you are seeing now, actually.</td>
-    </tr>
-    <tr align="center" bgcolor="DCDCDC">
-        <td>
-                <b><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Popping Balloons!</a></b><br />
-            <p>{ Python }</p>
-        </td>
-        <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
     </tr>
 </table>
 
