@@ -72,7 +72,7 @@
             <b><sub>- Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub></b><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A supervised Machine Learning model involving regression.</td>
@@ -112,7 +112,7 @@
             - SQL<br>
             - Python (<i>ipython-sql</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td align="left">
@@ -177,7 +177,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>pandas, plotly</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>Displaying all the planets from the Solar System and their respective moons.</td>
@@ -197,7 +197,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>Applying colormaps to submitted images.</td>
@@ -253,7 +253,7 @@
                     - Python (<i>fuzzywuzzy, python-Levenshtein, pytest, requests</i>)<br>
                     - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies. Several examples were tried in <a href="https://youtu.be/EGK-PI7eHZQ">this video</a>.</td>
@@ -272,7 +272,7 @@
             <sub><b>-Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, seaborn</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how the program works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
@@ -292,7 +292,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to try it.</td>
@@ -311,7 +311,7 @@
             <b>{ Julia }</b><br>
             <sub><b>- Jupyter Notebook</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go. <a href="https://youtu.be/TE6U7vVYqfI">This video</a> shows how you can play it.</td>
@@ -319,11 +319,11 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/discount_calculator">Discount Calculator</a></b><br>
-                <sub><b>- Jupyter Notebook<br>
-                - Python (<i>pytest</i>)<br>
-                - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
-                <table border="1px" align="center">
-            <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">Interactive</a></td></tr>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>pytest</i>)<br>
+            - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">Interactive</a></td></tr>
             </table>
         </td>
         <td>A small but robust function that was written while learning Unit Testing. You can see how it works <a href="https://youtu.be/yCVA_Cloqas">here</a>.</td>
@@ -333,7 +333,7 @@
             <b><a href="https://github.com/palaciodaniel/horse_race_with_go">Horse Race with</a></b><br>
             <b>{ Go }</b><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd">Interactive</a></td></tr>
+                <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd">Interactive</a></td></tr>
             </table>
         </td>
         <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
@@ -343,7 +343,7 @@
             <b><a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons">Popping Balloons!</a></b><br>
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
-            <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Interactive</a></td></tr>
+                <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py">Interactive</a></td></tr>
             </table>
         </td>
         <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
