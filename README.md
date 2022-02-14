@@ -424,10 +424,10 @@
     </tr>
 </table>
 
-<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="highlighted_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center">
-    <tr><td id="highlighted_projects"></td></tr>
+    <tr><td></td></tr>
     <tr>
         <th>HIGHLIGHTED PROJECTS</th>
     </tr>
