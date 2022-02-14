@@ -1,4 +1,4 @@
-<table border="10px" align="center">
+<table border="10px" align="center" id="welcome">
         <tr><th>Hello World! Welcome to my Portfolio page!</th>
         </tr>
 </table>
@@ -33,7 +33,7 @@
     </tr>
 </table>
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="machine_learning">
     <tr>
         <th colspan="2">MACHINE LEARNING</th>                   
     </tr>
@@ -81,7 +81,7 @@
 
 <br />
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="data_manipulation">
     <tr>
         <th colspan="2">DATA MANIPULATION</th>                   
     </tr>
@@ -154,7 +154,7 @@
 
 <br />
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="data_visualization">
     <tr>
         <th colspan="2">DATA VISUALIZATION</th>
     </tr>
@@ -242,7 +242,7 @@
 
 <br />
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="programming">
     <tr>
         <th colspan="2">PROGRAMMING</th>
     </tr>
@@ -386,7 +386,7 @@
 
 <br>
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="other_projects">
     <tr>
         <th colspan="2">OTHER PROJECTS</th>
     </tr>
@@ -414,7 +414,7 @@
 
 <br />
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="highlighted_projects">
     <tr><td></td></tr>
     <tr>
         <th>HIGHLIGHTED PROJECTS</th>
