@@ -260,7 +260,12 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies. Several examples were tried in <a href="https://youtu.be/EGK-PI7eHZQ">this video</a>.</td>
+        <td>
+            A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/EGK-PI7eHZQ">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -268,7 +273,12 @@
             <sub><b>{ Bash script }</b></sub><br>
             <br>
         </td>
-        <td>A game to improve the speed of your mental calculations. A video showcasing its gameplay can be seen <a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">here</a>.</td>
+        <td>
+            A game to improve the speed of your mental calculations.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -279,7 +289,12 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well. You can see how the program works in <a href="https://youtu.be/dW0_iNMpLc8">this video</a>.</td>
+        <td>
+            A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/dW0_iNMpLc8">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -299,7 +314,12 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was. <a href="https://youtu.be/fSsB1zb3R0g">This video</a> shows what you can expect if you decide to try it.</td>
+        <td>
+            A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/fSsB1zb3R0g">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -318,7 +338,12 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go. <a href="https://youtu.be/TE6U7vVYqfI">This video</a> shows how you can play it.</td>
+        <td>
+            A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/TE6U7vVYqfI">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -330,7 +355,12 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>A small but robust function that was written while learning Unit Testing. You can see how it works <a href="https://youtu.be/yCVA_Cloqas">here</a>.</td>
+        <td>
+            A small but robust function that was written while learning Unit Testing.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/yCVA_Cloqas">Video</a></td></tr>
+            </table>
+        </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
