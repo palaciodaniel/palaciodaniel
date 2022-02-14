@@ -4,13 +4,13 @@
 </table>
 
 <table border="2px" align="center">
-        <tr><th>Summary of Showcased Skills</th></tr>
+        <tr><th>Showcased Skills</th></tr>
         <tr>
-                <td align="center"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>Markdown & HTML</b>.</sub></td>
+                <td align="center" id="top"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>Markdown & HTML</b>.</sub></td>
         </tr>   
 </table>
 
-<table border="1px" align="center" id="top">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">Online Certifications*</th>                   
     </tr>
@@ -93,7 +93,7 @@
     </tr>
 </table>
 
-<sub id="data_manipulation">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
+<sub id="data_manipulation">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr>
@@ -166,7 +166,7 @@
     </tr>
 </table>
 
-<sub id="data_visualization">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
+<sub id="data_visualization">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr>
@@ -254,7 +254,7 @@
     </tr>
 </table>
 
-<sub id="programming">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
+<sub id="programming">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr>
@@ -398,7 +398,7 @@
     </tr>    
 </table>
 
-<sub id="other_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
+<sub id="other_projects">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr>
@@ -426,7 +426,7 @@
     </tr>
 </table>
 
-<sub id="highlighted_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
+<sub id="highlighted_projects">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr><td></td></tr>
