@@ -32,7 +32,7 @@
         <th colspan="2">Project Categories</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.github.com/palaciodaniel#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
+        <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
         <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">MACHINE LEARNING</a></b></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
