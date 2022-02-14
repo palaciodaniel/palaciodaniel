@@ -3,16 +3,10 @@
         </tr>
 </table>
 
-<table border="0px">
-        <tr><td align="justify">
-                Here I will be uploading the projects I am working at the moment. All of them were started from scratch with the goal of showcasing my current technical skills, and for that reason they are the result of a long, challenging, but ultimately rewarding journey that was worth every second. Unless otherwise noted, these projects are in a pretty finished state (although there is always room for improvement, of course), and efforts were made to ensure clarity, organization, and somewhat unusual approaches and ideas. <br><br>Enjoy.</td>
-        </tr>
-</table>
-
 <table border="2px" align="center">
         <tr><th>Summary of Showcased Skills</th></tr>
         <tr>
-            <td align="center"><sub>Python (numpy, <i>Data Cleaning</i> -pandas-, <i>Data Visualization</i> -matplotlib, WordCloud, seaborn, Plotly, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -scikit learn-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -pytest, TravisCI, codecov-, <i>Natural Language Processing</i> -nltk, fuzzy wuzzy-, <i>API Requesting</i> -requests-, <i>Web Scraping</i> -scrapy-), Markdown & HTML, Jupyter Notebook (<i>SQL Querying</i> -ipython sql-), Bash, Google Sheets, Julia, Go, Rust.</sub></td>
+                <td align="center"><sub><b>Python</b> (numpy, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>Markdown & HTML</b>.</sub></td>
         </tr>   
 </table>
 
