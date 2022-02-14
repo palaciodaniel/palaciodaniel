@@ -1,5 +1,5 @@
-<table border="10px" align="center" id="welcome">
-        <tr><th>Hello World! Welcome to my Portfolio page!</th>
+<table border="10px" align="center">
+        <tr><th>Hello World! Welcome to my Portfolio!</th>
         </tr>
 </table>
 
@@ -79,7 +79,7 @@
     </tr>
 </table>
 
-<br />
+<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center" id="data_manipulation">
     <tr>
@@ -152,7 +152,7 @@
     </tr>
 </table>
 
-<br />
+<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center" id="data_visualization">
     <tr>
@@ -240,7 +240,7 @@
     </tr>
 </table>
 
-<br />
+<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center" id="programming">
     <tr>
@@ -384,7 +384,7 @@
     </tr>    
 </table>
 
-<br>
+<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center" id="other_projects">
     <tr>
@@ -412,7 +412,7 @@
     </tr>
 </table>
 
-<br />
+<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
 <table border="1px" align="center" id="highlighted_projects">
     <tr><td></td></tr>
