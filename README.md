@@ -426,8 +426,8 @@
 
 <sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
 
-<table border="1px" align="center" id="highlighted_projects">
-    <tr><td></td></tr>
+<table border="1px" align="center">
+    <tr><td id="highlighted_projects"></td></tr>
     <tr>
         <th>HIGHLIGHTED PROJECTS</th>
     </tr>
