@@ -10,7 +10,7 @@
         </tr>   
 </table>
 
-<table border="1px" align="center">
+<table border="1px" align="center" id="top">
     <tr>
         <th colspan="2">Online Certifications*</th>                   
     </tr>
@@ -23,7 +23,25 @@
         <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
     </tr>
     <tr>
-            <td colspan="4" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
+            <td colspan="2" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
+    </tr>
+</table>
+
+<table border="1px" align="center">
+    <tr>
+        <th colspan="2">Project Categories</th>                   
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.github.com/palaciodaniel#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
+        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">MACHINE LEARNING</a></b></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">DATA MANIPULATION</a></b></td>
+        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATA VISUALIZATION</a></b></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">PROGRAMMING</a></b></td>
+        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">OTHER</a></b></td>
     </tr>
 </table>
 
