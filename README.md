@@ -33,19 +33,21 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
         <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
-        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">MACHINE LEARNING</a></b></td>
+        <td><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">DATA MANIPULATION</a></b></td>
-        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATA VISUALIZATION</a></b></td>
+        <td><b><a href="#data_manipulation" target="_blank">DATA MANIPULATION</a></b></td>
+        <td><b><a href="#data_visualization" target="_blank">DATA VISUALIZATION</a></b></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">PROGRAMMING</a></b></td>
-        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">OTHER</a></b></td>
+        <td><b><a href="#programming" target="_blank">PROGRAMMING</a></b></td>
+        <td><b><a href="#other_projects" target="_blank">OTHER</a></b></td>
     </tr>
 </table>
 
-<table border="1px" align="center" id="machine_learning">
+<br id="machine_learning"><br><br>
+
+<table border="1px" align="center">
     <tr>
         <th colspan="2">MACHINE LEARNING</th>                   
     </tr>
@@ -91,9 +93,9 @@
     </tr>
 </table>
 
-<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="data_manipulation">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
 
-<table border="1px" align="center" id="data_manipulation">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">DATA MANIPULATION</th>                   
     </tr>
@@ -164,9 +166,9 @@
     </tr>
 </table>
 
-<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="data_visualization">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
 
-<table border="1px" align="center" id="data_visualization">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">DATA VISUALIZATION</th>
     </tr>
@@ -252,9 +254,9 @@
     </tr>
 </table>
 
-<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="programming">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
 
-<table border="1px" align="center" id="programming">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">PROGRAMMING</th>
     </tr>
@@ -396,9 +398,9 @@
     </tr>    
 </table>
 
-<sub>[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="other_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
 
-<table border="1px" align="center" id="other_projects">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">OTHER PROJECTS</th>
     </tr>
@@ -424,7 +426,7 @@
     </tr>
 </table>
 
-<sub id="highlighted_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br>
+<sub id="highlighted_projects">[ <b>&#8679;</b> BACK TO TOP ]</sub><br><br><br>
 
 <table border="1px" align="center">
     <tr><td></td></tr>
