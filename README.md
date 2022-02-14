@@ -232,7 +232,11 @@
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb">Interactive</a></td></tr>
             </table>
         </td>
-        <td>Building an interactive four-dimensional cube. A demonstrative video is available <a href="https://youtu.be/bXawbssqm30">here</a>.</td>
+        <td>Building an interactive four-dimensional cube.<br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://youtu.be/bXawbssqm30">Video</a></td></tr>
+            </table>          
+        </td>
     </tr>
 </table>
 
