@@ -21,7 +21,7 @@
         <th colspan="2">Online Certifications*</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.datacamp.com/profile/danielpalacio">DATACAMP</a></b></td>
+        <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
         <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel">PLURALSIGHT</a></b></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
