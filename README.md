@@ -1,35 +1,11 @@
 <table border="10px" align="center">
-        <tr><th>Hello World! Welcome to my Portfolio!</th>
+        <tr><th>PROJECTS</th>
         </tr>
-</table>
-
-<table border="2px" align="center">
-        <tr><th>Showcased Skills</th></tr>
-        <tr>
-                <td align="center"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>Markdown & HTML</b>.</sub></td>
-        </tr>   
-</table>
-
-<table border="1px" align="center" id="top">
-    <tr>
-        <th colspan="2">Online Certifications*</th>                   
-    </tr>
-    <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
-        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">PLURALSIGHT</a></b></td>
-    </tr>
-    <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">SOLOLEARN</a></b></td>
-        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
-    </tr>
-    <tr>
-            <td colspan="2" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
-    </tr>
 </table>
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">Project Categories</th>                   
+        <th colspan="2">Categories</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
         <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
@@ -427,6 +403,30 @@
 </table>
 
 <sub id="highlighted_projects">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
+
+<table border="2px" align="center">
+        <tr><th>Programming Languages and Libraries Used</th></tr>
+        <tr>
+                <td align="center"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>Markdown & HTML</b>.</sub></td>
+        </tr>   
+</table>
+
+<table border="1px" align="center" id="top">
+    <tr>
+        <th colspan="2">Online Certifications*</th>                   
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
+        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">PLURALSIGHT</a></b></td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">SOLOLEARN</a></b></td>
+        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
+    </tr>
+    <tr>
+            <td colspan="2" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
+    </tr>
+</table>
 
 <table border="1px" align="center">
     <tr><td></td></tr>
