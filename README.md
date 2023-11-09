@@ -1,4 +1,4 @@
-<table border="10px" align="center">
+<table border="10px" align="center" id="top">
         <tr><th>PORTFOLIO / PUBLIC PROJECTS</th>
         </tr>
 </table>
@@ -411,7 +411,7 @@
         </tr>   
 </table>
 
-<table border="1px" align="center" id="top">
+<table border="1px" align="center">
     <tr>
         <th colspan="2">Online Certifications*</th>                   
     </tr>
