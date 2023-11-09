@@ -413,7 +413,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">Online Certifications*</th>                   
+        <th colspan="2">Online Certifications</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
         <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
@@ -422,9 +422,6 @@
     <tr align="center" bgcolor="DCDCDC">        
         <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">SOLOLEARN</a></b></td>
         <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
-    </tr>
-    <tr>
-            <td colspan="2" align="center"><sub><i>*Formal qualifications will be provided upon request.</i></sub></td>                   
     </tr>
 </table>
 
