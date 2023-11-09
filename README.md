@@ -21,7 +21,7 @@
     </tr>
 </table>
 
-<br id="machine_learning"><br><br>
+<br id="machine_learning"><br>
 
 <table border="1px" align="center">
     <tr>
