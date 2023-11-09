@@ -1,5 +1,5 @@
 <table border="10px" align="center">
-        <tr><th>PROJECTS</th>
+        <tr><th>PORTFOLIO / PUBLIC PROJECTS</th>
         </tr>
 </table>
 
