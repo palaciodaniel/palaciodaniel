@@ -168,7 +168,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/visualizing_day_care_centers_locations.ipynb" target="_blank">Day Care Centers Locations on Buenos Aires</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/visualizing_day_care_centers_locations.ipynb" target="_blank">Day Care Centers Locations on Buenos Aires</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>descartes, GeoPandas, matplotlib, pandas</i>)</b></sub><br>
             <br>
@@ -177,7 +179,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/plotly_the_universe_and_me#plotly-the-universe-and-me" target="_blank">Plotly, the Universe and Me</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/plotly_the_universe_and_me#plotly-the-universe-and-me" target="_blank">Plotly, the Universe and Me</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>pandas, plotly</i>)</b></sub><br><br>
             <table border="1px" align="center">
@@ -188,7 +192,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/art_001_chess/blob/main/chess.ipynb" target="_blank"> ART 001 - Chess</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/art_001_chess/blob/main/chess.ipynb" target="_blank"> ART 001 - Chess</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>pandas, seaborn</i>)</b></sub><br>
             <br>
@@ -197,7 +203,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://nbviewer.jupyter.org/github/palaciodaniel/art_002_any_colour_you_like/blob/main/any_colour_you_like.ipynb" target="_blank"> ART 002 - Any Colour You Like</a></b><br>
+            <b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/art_002_any_colour_you_like/blob/main/any_colour_you_like.ipynb" target="_blank"> ART 002 - Any Colour You Like</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
@@ -208,7 +216,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/art_003_drive_my_car_with_missingno/blob/main/art_003_drawing_figures_with_missingno.ipynb" target="_blank">ART 003 - Drive my Car with Missingno</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/art_003_drive_my_car_with_missingno/blob/main/art_003_drawing_figures_with_missingno.ipynb" target="_blank">ART 003 - Drive my Car with Missingno</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, missingno, numpy, pandas, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
@@ -219,7 +229,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb" target="_blank">ART 004 - Natural Language Processing (NLP) and WordClouds on Horror Books</a></b><br>
+            <b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb" target="_blank">ART 004 - Natural Language Processing (NLP) and WordClouds on Horror Books</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, nltk, wordcloud</i>)<br>
             - GIMP (GNU Image Manipulation Program)</sub></b><br>
@@ -229,7 +241,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/art_005_hypercube" target="_blank">ART 005 - Hypercube</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/art_005_hypercube" target="_blank">ART 005 - Hypercube</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>jgraph</i>)</sub></b><br><br>
             <table border="1px" align="center">
