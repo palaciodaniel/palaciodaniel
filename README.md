@@ -346,7 +346,8 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/fahrencelsius" target="_blank">Fahrencelsius</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/fahrencelsius" target="_blank">Fahrencelsius</a> ]</b><br><br>
+            <a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" alt="Rust" width=22% align="center"></a><br>
             <sub><b>{ Rust }</b></sub><br>
             <br>
         </td>
