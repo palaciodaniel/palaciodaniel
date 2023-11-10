@@ -5,20 +5,17 @@
 </table>
 
 <table border="1px" align="center">
-    <tr>
-        <th colspan="2">Categories</th>                   
+    <tr align="center" bgcolor="DCDCDC">        
+        <th><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTS</a></b></th>
+        <th><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTS</a></b></td>
-        <td><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b></td>
+        <th><b><a href="#data_manipulation" target="_blank">DATA MANIPULATION</a></b></th>
+        <th><b><a href="#data_visualization" target="_blank">DATA VISUALIZATION</a></b></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="#data_manipulation" target="_blank">DATA MANIPULATION</a></b></td>
-        <td><b><a href="#data_visualization" target="_blank">DATA VISUALIZATION</a></b></td>
-    </tr>
-    <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="#programming" target="_blank">PROGRAMMING</a></b></td>
-        <td><b><a href="#other_projects" target="_blank">OTHER</a></b></td>
+        <th><b><a href="#programming" target="_blank">PROGRAMMING</a></b></th>
+        <th><b><a href="#other_projects" target="_blank">OTHER</a></b></th>
     </tr>
 </table>
 
