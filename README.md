@@ -271,7 +271,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/lambda_swapi_v2.0" target="_blank">Lambda SWAPI v. 2.0</a></b><br><br>
+            <b>[ <a href="https://github.com/palaciodaniel/lambda_swapi_v2.0" target="_blank">Lambda SWAPI v. 2.0</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=17% align="center"></a><br>
             <a href="https://github.com/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width=11% align="center"></a><br> 
