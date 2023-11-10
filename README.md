@@ -306,7 +306,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <br><b>[ <a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a> ]</b><br><br>
+            <br><b>[<a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a>]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>-Jupyter Notebook<br>
