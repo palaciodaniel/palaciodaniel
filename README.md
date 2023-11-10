@@ -23,7 +23,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">:: 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 ::</th>                   
+        <th colspan="2"><br>:: 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 ::<br><br></th>                   
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -77,7 +77,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">:: 𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡 ::</th>                   
+        <th colspan="2"><br>:: 𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡 ::<br><br></th>                   
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -161,7 +161,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">:: 𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 ::</th>
+        <th colspan="2"><br>:: 𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 ::<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -264,7 +264,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">:: 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 ::</th>
+        <th colspan="2"><br>:: 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 ::<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -424,7 +424,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">:: 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ::</th>
+        <th colspan="2"><br>:: 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ::<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
