@@ -1,4 +1,6 @@
-<table border="10px" align="center" id="top">
+<div id="top"></div><br>
+
+<table border="10px" align="center">
         <tr><th>PORTFOLIO / PUBLIC PROJECTS</th>
         </tr>
 </table>
