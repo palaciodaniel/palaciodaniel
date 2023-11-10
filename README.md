@@ -23,11 +23,11 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</th>                   
+        <th colspan="2">:: 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 ::</th>                   
     </tr>
     <tr>
-        <th>Project's Name & Libraries</th>
-        <th>Brief Description</th>
+        <th>Project & Libraries</th>
+        <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
             <td>
@@ -77,11 +77,11 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡</th>                   
+        <th colspan="2">:: 𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡 ::</th>                   
     </tr>
     <tr>
-        <th>Project's Name & Libraries</th>
-        <th>Brief Description</th>
+        <th>Project & Libraries</th>
+        <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -150,11 +150,11 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡</th>
+        <th colspan="2">:: 𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 ::</th>
     </tr>
     <tr>
-        <th>Project's Name & Libraries</th>
-        <th>Brief Description</th>
+        <th>Project & Libraries</th>
+        <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -238,11 +238,11 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</th>
+        <th colspan="2">:: 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 ::</th>
     </tr>
     <tr>
-        <th>Project's Name & Libraries</th>
-        <th>Brief Description</th>
+        <th>Project & Libraries</th>
+        <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -382,11 +382,11 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</th>
+        <th colspan="2">:: 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ::</th>
     </tr>
     <tr>
-        <th>Project's Name & Libraries</th>
-        <th>Brief Description</th>
+        <th>Project & Libraries</th>
+        <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
@@ -432,7 +432,7 @@
 <table border="1px" align="center">
     <tr><td></td></tr>
     <tr>
-        <th>𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦</th>
+        <th>:: 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦 ::</th>
     </tr>
     <tr><td></td></tr>
 </table>
