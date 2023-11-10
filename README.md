@@ -288,7 +288,8 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/you_failed_in_life" target="_blank">You Failed in Life</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/you_failed_in_life" target="_blank">You Failed in Life</a> ]</b><br><br>
+            <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width=21% align="center"></a><br>
             <sub><b>{ Bash script }</b></sub><br>
             <br>
         </td>
