@@ -64,10 +64,10 @@
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <b><sub>- Jupyter Notebook<br>
-            - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub><br><br>           
+            - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub></b><br><br>           
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb" target="_blank">Interactive</a></td></tr>
-            </table>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
+            </table><br>
         </td>
         <td>A supervised Machine Learning model involving regression.</td>
     </tr>
@@ -111,7 +111,7 @@
             - SQL<br>
             - Python (<i>ipython-sql</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table><br>
         </td>
         <td align="left">
@@ -186,7 +186,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>pandas, plotly</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>Displaying all the planets from the Solar System and their respective moons.</td>
@@ -210,7 +210,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>Applying colormaps to submitted images.</td>
@@ -223,7 +223,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, missingno, numpy, pandas, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>A creative use of the Missingno library to display images.</td>
@@ -249,7 +249,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>jgraph</i>)</sub></b><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>Building an interactive four-dimensional cube.<br><br>
@@ -280,7 +280,7 @@
                     - Python (<i>fuzzywuzzy, python-Levenshtein, pytest, requests</i>)<br>
                     - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>
@@ -312,7 +312,7 @@
             <sub><b>-Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, seaborn</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>
@@ -341,7 +341,7 @@
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>
@@ -367,7 +367,7 @@
             <sub><b>(and Jupyter Notebook)</b></sub><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>
@@ -387,7 +387,7 @@
             - Python (<i>pytest</i>)<br>
             - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>
@@ -402,7 +402,7 @@
             <b><a href="https://github.com/palaciodaniel/horse_race_with_go" target="_blank">Horse Race with</a></b><br>
             <a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" alt="GO" width=22% align="center"></a><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
@@ -413,7 +413,7 @@
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py" target="_blank">Interactive</a></td></tr>
+                <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py" target="_blank"><b>Interactive</b></a></td></tr>
             </table>
         </td>
         <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
