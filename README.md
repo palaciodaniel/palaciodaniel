@@ -85,8 +85,10 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>Global Sales Analysis</b><br>
-            [ <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis" target="_blank">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales" target="_blank">Español</a> ]<br><br>
+            <b>[ Global Sales Analysis ]</b><br>
+            - <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis" target="_blank">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales" target="_blank">Español</a> -<br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>matplotlib, pandas, plotly, seaborn</i>)</b></sub><br>
             <br>
@@ -101,13 +103,15 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Doom Cacowards - SQL in Jupyter Notebook</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Doom Cacowards - SQL in Jupyter Notebook</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - SQL<br>
             - Python (<i>ipython-sql</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Interactive</a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td align="left">
             <ul>
@@ -119,7 +123,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>missingno, pandas</i>)<b></sub><br>
             <br>
@@ -128,7 +134,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb" target="_blank">My Datacamp's Completed Courses List</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb" target="_blank">My Datacamp's Completed Courses List</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>Scrapy</i>)</b></sub><br>
             <br>
@@ -137,7 +145,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb" target="_blank">Knee-Deep in the Dataset</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb" target="_blank">Knee-Deep in the Dataset</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>pandas</i>)</b></sub><br>
             <br>
