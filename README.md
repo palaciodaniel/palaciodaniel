@@ -31,7 +31,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
             <td>
-                <b>[ Predicting Psychotherapy Success with Machine Learning ]</b><br><br>
+                <br><b>[ Predicting Psychotherapy Success with Machine Learning ]</b><br><br>
                 <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
                 <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
                 <b><sub>- Jupyter Notebook<br>
@@ -49,7 +49,7 @@
     </tr>        
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb" target="_blank">Killing Infestations with K-Means</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb" target="_blank">Killing Infestations with K-Means</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <b><sub>- Jupyter Notebook<br>
@@ -60,7 +60,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb" target="_blank">Predicting Earnings on the Steam Market (after commissions)</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb" target="_blank">Predicting Earnings on the Steam Market (after commissions)</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <b><sub>- Jupyter Notebook<br>
@@ -85,7 +85,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ Global Sales Analysis ]</b><br>
+            <br><b>[ Global Sales Analysis ]</b><br>
             - <a href="https://github.com/palaciodaniel/global_sales_analysis#global-sales-analysis" target="_blank">English</a> - <a href="https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/README.md#an%C3%A1lisis-de-ventas-globales" target="_blank">Español</a> -<br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
@@ -103,7 +103,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Doom Cacowards - SQL in Jupyter Notebook</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Doom Cacowards - SQL in Jupyter Notebook</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=11% align="center"></a>
             <a href="https://www.sqlite.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SQLite_Logo.svg/324px-SQLite_Logo.svg.png" alt="SQLite" width=18% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=8% align="center"></a><br>
@@ -124,7 +124,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[<a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a>]</b><br><br>
+            <br><b>[<a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a>]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -135,7 +135,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb" target="_blank">My Datacamp's Completed Courses List</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/datacamp_completed_courses_list/blob/main/web-scraping-datacamp_completed_courses.ipynb" target="_blank">My Datacamp's Completed Courses List</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -146,7 +146,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb" target="_blank">Knee-Deep in the Dataset</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/knee_deep_in_the_dataset/blob/main/knee_deep_in_the_dataset.ipynb" target="_blank">Knee-Deep in the Dataset</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -169,7 +169,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/visualizing_day_care_centers_locations.ipynb" target="_blank">Day Care Centers Locations on Buenos Aires</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/visualizing_day_care_centers_locations.ipynb" target="_blank">Day Care Centers Locations on Buenos Aires</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -180,7 +180,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/plotly_the_universe_and_me#plotly-the-universe-and-me" target="_blank">Plotly, the Universe and Me</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/plotly_the_universe_and_me#plotly-the-universe-and-me" target="_blank">Plotly, the Universe and Me</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -193,7 +193,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/art_001_chess/blob/main/chess.ipynb" target="_blank"> ART 001 - Chess</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/art_001_chess/blob/main/chess.ipynb" target="_blank"> ART 001 - Chess</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -204,7 +204,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/art_002_any_colour_you_like/blob/main/any_colour_you_like.ipynb" target="_blank"> ART 002 - Any Colour You Like</a> ]</b><br><br>
+            <br><b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/art_002_any_colour_you_like/blob/main/any_colour_you_like.ipynb" target="_blank"> ART 002 - Any Colour You Like</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -217,7 +217,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/art_003_drive_my_car_with_missingno/blob/main/art_003_drawing_figures_with_missingno.ipynb" target="_blank">ART 003 - Drive my Car with Missingno</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/art_003_drive_my_car_with_missingno/blob/main/art_003_drawing_figures_with_missingno.ipynb" target="_blank">ART 003 - Drive my Car with Missingno</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -230,7 +230,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb" target="_blank">ART 004 - Natural Language Processing (NLP) and WordClouds on Horror Books</a> ]</b><br><br>
+            <br><b>[ <a href="https://nbviewer.jupyter.org/github/palaciodaniel/natural_language_processing_and_wordclouds_on_books/blob/main/applying_nlp_and_wordclouds_to_horror_books.ipynb" target="_blank">ART 004 - Natural Language Processing (NLP) and WordClouds on Horror Books</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <a href="https://www.gimp.org/"><img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="GIMP" width=21% align="center"></a><br>
@@ -243,7 +243,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/art_005_hypercube" target="_blank">ART 005 - Hypercube</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/art_005_hypercube" target="_blank">ART 005 - Hypercube</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -272,7 +272,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/lambda_swapi_v2.0" target="_blank">Lambda SWAPI v. 2.0</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/lambda_swapi_v2.0" target="_blank">Lambda SWAPI v. 2.0</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=17% align="center"></a><br>
             <a href="https://github.com/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width=11% align="center"></a><br> 
@@ -292,7 +292,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/you_failed_in_life" target="_blank">You Failed in Life</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/you_failed_in_life" target="_blank">You Failed in Life</a> ]</b><br><br>
             <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width=21% align="center"></a><br>
             <sub><b>{ Bash script }</b></sub><br>
             <br>
@@ -306,7 +306,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>-Jupyter Notebook<br>
@@ -324,7 +324,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop" target="_blank">Calculating Expiration Dates with OOP</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop" target="_blank">Calculating Expiration Dates with OOP</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -335,7 +335,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook" target="_blank">Typing Speed Test</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook" target="_blank">Typing Speed Test</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
@@ -353,7 +353,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/fahrencelsius" target="_blank">Fahrencelsius</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/fahrencelsius" target="_blank">Fahrencelsius</a> ]</b><br><br>
             <a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" alt="Rust" width=22% align="center"></a><br>
             <sub><b>{ Rust }</b></sub><br>
             <br>
@@ -362,7 +362,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia" target="_blank">Defusing Bombs in the Dark with</a></b><br>
+            <br><b><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia" target="_blank">Defusing Bombs in the Dark with</a></b><br>
             <a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/320px-Julia_Programming_Language_Logo.svg.png" alt="Julia Programming Language" width=22% align="center"></a><br><br>
             <sub><b>(and Jupyter Notebook)</b></sub><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a><br><br>
@@ -379,7 +379,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/discount_calculator" target="_blank">Discount Calculator</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/discount_calculator" target="_blank">Discount Calculator</a> ]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=17% align="center"></a><br>
             <a href="https://github.com/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width=11% align="center"></a><br> 
@@ -399,7 +399,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/horse_race_with_go" target="_blank">Horse Race with</a></b><br>
+            <br><b><a href="https://github.com/palaciodaniel/horse_race_with_go" target="_blank">Horse Race with</a></b><br>
             <a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" alt="GO" width=22% align="center"></a><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd" target="_blank"><b>Interactive</b></a></td></tr>
@@ -409,7 +409,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons" target="_blank">Popping Balloons!</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons" target="_blank">Popping Balloons!</a> ]</b><br><br>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
@@ -432,7 +432,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing" target="_blank">Steam Summer Sale 2020 - Sold Trading Cards</a> ]</b><br><br>
+            <br><b>[ <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing" target="_blank">Steam Summer Sale 2020 - Sold Trading Cards</a> ]</b><br><br>
             <a href="https://www.google.com/sheets/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/175px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width=10% align="center"></a><br>            
             <sub><b>{ Google Sheets }</b></sub><br>
             <br>
@@ -441,7 +441,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/palaciodaniel" target="_blank">My GitHub's Profile Page</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/palaciodaniel" target="_blank">My GitHub's Profile Page</a> ]</b><br><br>
             <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br>     
             <sub><b>{ HTML }</b></sub><br>
             <br>
