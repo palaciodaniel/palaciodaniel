@@ -31,7 +31,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
             <td>
-                <b>Predicting Psychotherapy Success with Machine Learning</b><br>
+                <b>[ Predicting Psychotherapy Success with Machine Learning ]</b><br><br>
+                <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
                 <b><sub>- Jupyter Notebook<br>
                 - Python (<i>Faker, matplotlib, pandas, scikit-learn</i>)</sub></b><br><br>
                 [ Steps: <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step1_building_patient_df.ipynb" target="_blank">1</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step2_cleaning_the_dataset.ipynb" target="_blank">2</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step3_applying_ml_to_df.ipynb" target="_blank">3</a>, <a href="https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml/blob/master/step4_improving_ml_with_gridsearch.ipynb" target="_blank">4</a> ]<br>
@@ -47,7 +49,9 @@
     </tr>        
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb" target="_blank">Killing Infestations with K-Means</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/killing_infestations_with_kmeans/blob/main/killing_infestations_with_kmeans.ipynb" target="_blank">Killing Infestations with K-Means</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <b><sub>- Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, scikit-learn</i>)</sub></b><br>
             <br>
