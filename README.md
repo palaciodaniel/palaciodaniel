@@ -254,7 +254,7 @@
         </td>
         <td>Building an interactive four-dimensional cube.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/bXawbssqm30" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/bXawbssqm30" target="_blank"><b>Video</b></a></td></tr>
             </table>          
         </td>
     </tr>
@@ -286,7 +286,7 @@
         <td>
             A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/EGK-PI7eHZQ" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/EGK-PI7eHZQ" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
@@ -300,7 +300,7 @@
         <td>
             A game to improve the speed of your mental calculations.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://www.youtube.com/watch?v=V3dUqM3gDJ0" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
@@ -318,7 +318,7 @@
         <td>
             A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/dW0_iNMpLc8" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/dW0_iNMpLc8" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
@@ -347,7 +347,7 @@
         <td>
             A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/fSsB1zb3R0g" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/fSsB1zb3R0g" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
@@ -373,7 +373,7 @@
         <td>
             A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/TE6U7vVYqfI" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/TE6U7vVYqfI" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
@@ -393,7 +393,7 @@
         <td>
             A small but robust function that was written while learning Unit Testing.<br><br>
             <table border="1px" align="center">
-                <tr><td><a href="https://youtu.be/yCVA_Cloqas" target="_blank">Video</a></td></tr>
+                <tr><td><a href="https://youtu.be/yCVA_Cloqas" target="_blank"><b>Video</b></a></td></tr>
             </table>
         </td>
     </tr>
