@@ -442,9 +442,7 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <br><b>[ <a href="https://github.com/palaciodaniel/palaciodaniel" target="_blank">My GitHub's Profile Page</a> ]</b><br><br>
-            <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br>     
-            <sub><b>{ HTML }</b></sub><br>
-            <br>
+            <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br><br><br>
         </td>
         <td>This page you are seeing now, actually.</td>
     </tr>
