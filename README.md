@@ -1,21 +1,21 @@
 <div id="top"></div><br>
 
 <table border="10px" align="center">
-        <tr><th>PUBLIC PROJECTS</th></tr>
+        <tr><th>-  -  -  ＷＥＬＣＯＭＥ - ＴＯ - ＭＹ - ＰＥＲＳＯＮＡＬ - ＰＯＲＴＦＯＬＩＯ  -  -  -</th></tr>
 </table>
 
 <table border="1px" align="center">
     <tr align="center" bgcolor="DCDCDC">        
-        <th><a href="#highlighted_projects" target="_blank"><span>&#x1F320;</span><br>HIGHLIGHTS</a></th>
-        <th><a href="#machine_learning" target="_blank"><span>&#x1F4DA;</span><br>MACHINE LEARNING</a></th>
+        <th><a href="#highlighted_projects" target="_blank"><span>&#x1F320;</span><br>𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦</a></th>
+        <th><a href="#machine_learning" target="_blank"><span>&#x1F4DA;</span><br>𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><a href="#data_manipulation" target="_blank"><span>&#x1F5C2;</span><br>DATA MANIPULATION</a></th>
-        <th><a href="#data_visualization" target="_blank"><span>&#x1F4CA;</span><br>DATA VISUALIZATION</a></th>
+        <th><a href="#data_manipulation" target="_blank"><span>&#x1F5C2;</span><br>𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡</a></th>
+        <th><a href="#data_visualization" target="_blank"><span>&#x1F4CA;</span><br>𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡</a></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>PROGRAMMING</a></th>
-        <th><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>OTHER</a></th>
+        <th><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</a></th>
+        <th><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a></th>
     </tr>
 </table>
 
@@ -23,7 +23,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>:: 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 ::<br><br></th>                   
+        <th colspan="2"><br>⚪ 🇲​​​​​🇦​​​​​🇨​​​​​🇭​​​​​🇮​​​​​🇳​​​​​🇪 ⚪​​​​​ 🇱​​​​​🇪​​​​​🇦​​​​​🇷​​​​​🇳​​​​​🇮​​​​​🇳​​​​​🇬 ⚪<br><br></th>                   
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -77,7 +77,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>:: 𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡 ::<br><br></th>                   
+        <th colspan="2"><br>⚪ 🇩​​​​​🇦​​​​​🇹​​​​​🇦​​​​​ ⚪ 🇲​​​​​🇦​​​​​🇳​​​​​🇮​​​​​🇵​​​​​🇺​​​​​🇱​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​ ⚪<br><br></th>                   
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -264,7 +264,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>:: 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 ::<br><br></th>
+        <th colspan="2"><br>⚪ 🇵​​​​​🇷​​​​​🇴​​​​​🇬​​​​​🇷​​​​​🇦​​​​​🇲​​​​​🇲​​​​​🇮​​​​​🇳​​​​​🇬 ⚪​​​​​<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -424,7 +424,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>:: 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ::<br><br></th>
+        <th colspan="2"><br>⚪ 🇴​​​​​🇹​​​​​🇭​​​​​🇪​​​​​🇷​​​​​ ⚪ 🇵​​​​​🇷​​​​​🇴​​​​​🇯​​​​​🇪​​​​​🇨​​​​​🇹​​​​​🇸​​​​​ ⚪<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
