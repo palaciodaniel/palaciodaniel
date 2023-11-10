@@ -392,7 +392,7 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/horse_race_with_go" target="_blank">Horse Race with</a></b><br>
-            <b>{ Go }</b><br><br>
+            <a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" alt="GO" width=22% align="center"></a><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd" target="_blank">Interactive</a></td></tr>
             </table>
