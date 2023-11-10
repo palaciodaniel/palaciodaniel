@@ -77,7 +77,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>⚪ 🇩​​​​​🇦​​​​​🇹​​​​​🇦​​​​​ ⚪ 🇲​​​​​🇦​​​​​🇳​​​​​🇮​​​​​🇵​​​​​🇺​​​​​🇱​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​ ⚪<br><br></th>                   
+        <th colspan="2"><br>⚪ 🇩​​​​​🇦​​​​​🇹​​​​​🇦​​​​​ ⚪ 🇲 ​​​​​🇦 ​​​​​🇳​​​​​🇮​​​​​🇵​​​​​🇺​​​​​🇱​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​ ⚪<br><br></th>                   
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -264,7 +264,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2"><br>⚪ 🇵​​​​​🇷​​​​​🇴​​​​​🇬​​​​​🇷​​​​​🇦​​​​​🇲​​​​​🇲​​​​​🇮​​​​​🇳​​​​​🇬 ⚪​​​​​<br><br></th>
+        <th colspan="2"><br>⚪ 🇵​​​​​🇷​​​​​🇴​​​​​🇬​​​​​🇷​​​​​🇦​​​​​🇲 ​​​​​🇲​​​​​🇮​​​​​🇳​​​​​🇬 ⚪​​​​​<br><br></th>
     </tr>
     <tr>
         <th>Project & Libraries</th>
@@ -474,7 +474,7 @@
 <table border="1px" align="center">
     <tr><td></td></tr>
     <tr>
-        <th id="highlighted_projects">:: 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦 ::</th>
+        <th id="highlighted_projects">⚪ 🇭​​​​​🇮​​​​​🇬​​​​​🇭​​​​​🇱​​​​​🇮​​​​​🇬​​​​​🇭​​​​​🇹​​​​​🇸​​​​​ ⚪</th>
     </tr>
     <tr><td></td></tr>
 </table>
