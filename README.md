@@ -306,7 +306,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/channard_psychosis_inventory" target="_blank">Channard's Psychosis Inventory</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>-Jupyter Notebook<br>
             - Python (<i>matplotlib, numpy, seaborn</i>)</b></sub><br><br>
             <table border="1px" align="center">
@@ -322,7 +324,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop" target="_blank">Calculating Expiration Dates with OOP</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/calculating_expiration_dates_with_oop" target="_blank">Calculating Expiration Dates with OOP</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>datetime</i>)</sub><b><br>
             <br>
@@ -331,7 +335,9 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook" target="_blank">Typing Speed Test</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/typing_test_on_jupyter_notebook" target="_blank">Typing Speed Test</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</b></sub><br><br>
             <table border="1px" align="center">
@@ -403,7 +409,8 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons" target="_blank">Popping Balloons!</a></b><br>
+            <b>[ <a href="https://github.com/palaciodaniel/popping_balloons#popping-balloons" target="_blank">Popping Balloons!</a> ]</b><br><br>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py" target="_blank">Interactive</a></td></tr>
