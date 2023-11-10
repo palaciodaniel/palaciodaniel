@@ -59,9 +59,11 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb" target="_blank">Predicting Earnings on the Steam Market (after commissions)</a></b><br>
-            <b><sub>- Jupyter Notebook<br>
-            - Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)</sub></b><br><br>
+            <b><a href="https://github.com/palaciodaniel/predicting_earnings_on_steam_market/blob/main/steam_market_valve_commissions.ipynb" target="_blank">Predicting Earnings on the Steam Market (after commissions)</a></b><br><br>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=16% align="center"></a><br>
+            <b><sub>- Python (<i>matplotlib, numpy, pandas, scikit-learn</i>)<br>
+            - Jupyter Notebook</sub><br><br>           
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb" target="_blank">Interactive</a></td></tr>
             </table>
