@@ -187,7 +187,7 @@
             - Python (<i>pandas, plotly</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://nbviewer.jupyter.org/github/palaciodaniel/plotly_the_universe_and_me/blob/main/plotly_the_universe_and_me.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>Displaying all the planets from the Solar System and their respective moons.</td>
     </tr>
@@ -211,7 +211,7 @@
             - Python (<i>matplotlib, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_002_any_colour_you_like/main?filepath=any_colour_you_like.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>Applying colormaps to submitted images.</td>
     </tr>
@@ -224,7 +224,7 @@
             - Python (<i>matplotlib, missingno, numpy, pandas, scikit-image</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_003_drive_my_car_with_missingno/main?filepath=art_003_drawing_figures_with_missingno.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>A creative use of the Missingno library to display images.</td>
     </tr>
@@ -250,7 +250,7 @@
             - Python (<i>jgraph</i>)</sub></b><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_005_hypercube/main?filepath=art_005_hypercube.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>Building an interactive four-dimensional cube.<br><br>
             <table border="1px" align="center">
@@ -281,7 +281,7 @@
                     - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/lambda_swapi_v2.0/master?filepath=lambda_swapi_v2.0.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>
             A program that inspects a famous Star Wars API and determines if two characters, which were chosen by the user, share the same movies.<br><br>
@@ -313,7 +313,7 @@
             - Python (<i>matplotlib, numpy, seaborn</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/channard_psychosis_inventory/master?filepath=channard_psytest.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>
             A multiple-choice system built on Jupyter Notebook, that allows the user to complete a fictional psychological test. At the end, it outputs not only the user's choices, but it generates visualizations as well.<br><br>
@@ -342,7 +342,7 @@
             - Python (<i>Faker, fuzzywuzzy, python-Levenshtein</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=typing_test_on_jupyter.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>
             A program that will output a random text to copy. Once you finish, you will be informed about your typing speed and how precise your writing was.<br><br>
@@ -368,7 +368,7 @@
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>
             A program that was written as a challenge: to create a functional piece of code using a language for which I never attended a single course or lesson before, so I was forced to learn everything about it on the go.<br><br>
@@ -388,7 +388,7 @@
             - GitHub (<i>TravisCI, codecov</i>)</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>
             A small but robust function that was written while learning Unit Testing.<br><br>
@@ -403,7 +403,7 @@
             <a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" alt="GO" width=22% align="center"></a><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://play.golang.org/p/OIQCnBzJhgd" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>A small piece of code to showcase two key aspects of Go: <i>concurrency</i> and <i>goroutines</i>. Both are clearly applied in a simple but easy-to-imagine situation: a horse race, where every <i>goroutine</i> is represented by a horseman.</td>
     </tr>
@@ -414,7 +414,7 @@
             <sub><b>{ Python }</b></sub><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://code.sololearn.com/cYzhcWr468NS/#py" target="_blank"><b>Interactive</b></a></td></tr>
-            </table>
+            </table><br>
         </td>
         <td>A simple guessing game, which was my first project ever. It was released on April 2019 after applying the contents from a lesson.</td>
     </tr>    
