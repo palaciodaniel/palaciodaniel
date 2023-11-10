@@ -431,7 +431,7 @@
     </tr>
 </table>
 
-<sub id="highlighted_projects">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
+<sub>[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
 
 <table border="2px" align="center">
         <tr><th>Programming Languages and Libraries Used</th></tr>
@@ -457,7 +457,7 @@
 <table border="1px" align="center">
     <tr><td></td></tr>
     <tr>
-        <th>:: 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦 ::</th>
+        <th id="highlighted_projects">:: 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦 ::</th>
     </tr>
     <tr><td></td></tr>
 </table>
