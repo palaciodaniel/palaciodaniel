@@ -1,8 +1,7 @@
 <div id="top"></div><br>
 
 <table border="10px" align="center">
-        <tr><th>PORTFOLIO / PUBLIC PROJECTS</th>
-        </tr>
+        <tr><th>PUBLIC PROJECTS</th></tr>
 </table>
 
 <table border="1px" align="center">
