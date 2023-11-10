@@ -6,16 +6,16 @@
 
 <table border="1px" align="center">
     <tr align="center" bgcolor="DCDCDC">        
-        <th><br><a href="#highlighted_projects" target="_blank"><span>&#x1F320;</span><br>HIGHLIGHTS</a><br></th>
-        <th><br><a href="#machine_learning" target="_blank"><span>&#x1F4DA;</span><br>MACHINE LEARNING</a><br></th>
+        <th><a href="#highlighted_projects" target="_blank"><span>&#x1F320;</span><br>HIGHLIGHTS</a></th>
+        <th><a href="#machine_learning" target="_blank"><span>&#x1F4DA;</span><br>MACHINE LEARNING</a></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><br><a href="#data_manipulation" target="_blank"><span>&#x1F5C2;</span><br>DATA MANIPULATION</a><br></th>
-        <th><br><a href="#data_visualization" target="_blank"><span>&#x1F4CA;</span><br>DATA VISUALIZATION</a><br></th>
+        <th><a href="#data_manipulation" target="_blank"><span>&#x1F5C2;</span><br>DATA MANIPULATION</a></th>
+        <th><a href="#data_visualization" target="_blank"><span>&#x1F4CA;</span><br>DATA VISUALIZATION</a></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><br><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>PROGRAMMING</a><br> <br></th>
-        <th><br><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>OTHER</a><br> <br></th>
+        <th><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>PROGRAMMING</a></th>
+        <th><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>OTHER</a></th>
     </tr>
 </table>
 
