@@ -416,7 +416,8 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b><a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing" target="_blank">Steam Summer Sale 2020 - Sold Trading Cards</a></b><br />
+            <b>[ <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing" target="_blank">Steam Summer Sale 2020 - Sold Trading Cards</a> ]</b><br><br>
+            <a href="https://www.google.com/sheets/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/175px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width=10% align="center"></a><br>            
             <sub><b>{ Google Sheets }</b></sub><br>
             <br>
         </td>
