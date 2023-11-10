@@ -6,16 +6,16 @@
 
 <table border="1px" align="center">
     <tr align="center" bgcolor="DCDCDC">        
-        <th><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTS</a></b></th>
-        <th><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b></th>
+        <th><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTS</a></b><br><span>&#x1F44D;</span></th>
+        <th><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b><br><span>&#x1F44D;</span></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><b><a href="#data_manipulation" target="_blank">DATA MANIPULATION</a></b></th>
-        <th><b><a href="#data_visualization" target="_blank">DATA VISUALIZATION</a></b></th>
+        <th><a href="#data_manipulation" target="_blank"><span>&#x1F5C2;</span><br>DATA MANIPULATION</a><br></th>
+        <th><a href="#data_visualization" target="_blank"><span>&#x1F4CA;</span><br>DATA VISUALIZATION</a><br></th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <th><b><a href="#programming" target="_blank">PROGRAMMING</a></b></th>
-        <th><b><a href="#other_projects" target="_blank">OTHER</a></b></th>
+        <th><b><a href="#programming" target="_blank">PROGRAMMING</a></b><br><span>&#x1F44D;</span></th>
+        <th><b><a href="#other_projects" target="_blank">OTHER</a></b><br><span>&#x1F44D;</span></th>
     </tr>
 </table>
 
@@ -124,7 +124,7 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <b>[ <a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a> ]</b><br><br>
+            <b>[<a href="https://github.com/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb" target="_blank">Data Cleaning - Estudio de Discapacidad 2018</a>]</b><br><br>
             <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
             <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
