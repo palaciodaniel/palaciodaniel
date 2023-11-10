@@ -104,8 +104,9 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b>[ <a href="https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/cacowards_sql_querying_on_jupyter.ipynb" target="_blank">Doom Cacowards - SQL in Jupyter Notebook</a> ]</b><br><br>
-            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
-            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=11% align="center"></a>
+            <a href="https://www.sqlite.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SQLite_Logo.svg/324px-SQLite_Logo.svg.png" alt="SQLite" width=18% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=8% align="center"></a><br>
             <sub><b>- Jupyter Notebook<br>
             - SQL<br>
             - Python (<i>ipython-sql</i>)</b></sub><br><br>
