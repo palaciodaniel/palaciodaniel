@@ -355,8 +355,9 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <b><a href="https://github.com/palaciodaniel/defusing_bombs_in_the_dark_with_julia" target="_blank">Defusing Bombs in the Dark with</a></b><br>
-            <b>{ Julia }</b><br>
-            <sub><b>- Jupyter Notebook</b></sub><br><br>
+            <a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/320px-Julia_Programming_Language_Logo.svg.png" alt="Julia Programming Language" width=22% align="center"></a><br><br>
+            <sub><b>(and Jupyter Notebook)</b></sub><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=14% align="center"></a><br><br>
             <table border="1px" align="center">
                 <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/defusing_bombs_in_the_dark_with_julia/main?filepath=defusing_bombs_in_the_dark_with_julia.ipynb" target="_blank">Interactive</a></td></tr>
             </table>
