@@ -9,7 +9,7 @@
         <th colspan="2">Categories</th>                   
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTED</a></b></td>
+        <td><b><a href="#highlighted_projects" target="_blank">HIGHLIGHTS</a></b></td>
         <td><b><a href="#machine_learning" target="_blank">MACHINE LEARNING</a></b></td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">        
@@ -26,7 +26,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">MACHINE LEARNING</th>                   
+        <th colspan="2">𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</th>                   
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -76,7 +76,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">DATA MANIPULATION</th>                   
+        <th colspan="2">𝗗𝗔𝗧𝗔 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡</th>                   
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -149,7 +149,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">DATA VISUALIZATION</th>
+        <th colspan="2">𝗗𝗔𝗧𝗔 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡</th>
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -237,7 +237,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">PROGRAMMING</th>
+        <th colspan="2">𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</th>
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -381,7 +381,7 @@
 
 <table border="1px" align="center">
     <tr>
-        <th colspan="2">OTHER PROJECTS</th>
+        <th colspan="2">𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</th>
     </tr>
     <tr>
         <th>Project's Name & Libraries</th>
@@ -431,7 +431,7 @@
 <table border="1px" align="center">
     <tr><td></td></tr>
     <tr>
-        <th>HIGHLIGHTED PROJECTS</th>
+        <th>𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦</th>
     </tr>
     <tr><td></td></tr>
 </table>
