@@ -493,7 +493,7 @@
     </tr>
 </table>
 
-<sub>[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
+<sub>[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br>
 
 <table border="1px" align="center">
     <tr><td></td></tr>
