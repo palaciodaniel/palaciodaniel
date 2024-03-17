@@ -17,6 +17,26 @@
         <th><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</a></th>
         <th><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a></th>
     </tr>
+</table><br><br>
+
+<table border="2px" align="center">
+        <tr><th>Programming Languages and Libraries Used</th></tr>
+        <tr>
+                <td align="center"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>HTML</b>, <b>CSS</b>, <b>Markdown</b>.</sub></td>
+        </tr>   
+</table>
+
+<table border="1px" align="center">
+    <tr>
+        <th colspan="5">Online Certifications - Profiles</th>                   
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">        
+        <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
+        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">PLURALSIGHT</a></b></td>
+        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">SOLOLEARN</a></b></td>
+        <td><b><a href="https://www.freecodecamp.org/palaciodaniel" target="_blank">FREECODECAMP</a></b></td>
+        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
+    </tr>
 </table>
 
 <br id="machine_learning"><br>
@@ -476,26 +496,6 @@
 </table>
 
 <sub>[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
-
-<table border="2px" align="center">
-        <tr><th>Programming Languages and Libraries Used</th></tr>
-        <tr>
-                <td align="center"><sub><b>Python</b> (<b>numpy</b>, <i>Data Cleaning</i> -<b>pandas</b>-, <i>Data Visualization</i> -<b>matplotlib</b>, <b>seaborn</b>, <b>plotly</b>, WordCloud, GeoPandas, scikit-image, Missingno, jgraph-, <i>Machine Learning</i> -<b>scikit-learn</b>-, <i>Dataset Creation (CSV)</i> -Faker-, <i>Unit Testing</i> -<b>pytest</b>, TravisCI, codecov-, <i>Natural Language Processing</i> -<b>nltk</b>, fuzzy wuzzy-, <i>API Requesting</i> -<b>requests</b>-, <i>Web Scraping</i> -<b>scrapy</b>-), <b>Jupyter Notebook</b> (<i><b>SQL</b> Querying</i> -ipython sql-), <b>Bash</b>, <b>Rust</b>, <b>Julia</b>, <b>Go</b>, <b>Google Sheets</b>, <b>HTML</b>, <b>CSS</b>, <b>Markdown</b>.</sub></td>
-        </tr>   
-</table>
-
-<table border="1px" align="center">
-    <tr>
-        <th colspan="5">Online Certifications - Profiles</th>                   
-    </tr>
-    <tr align="center" bgcolor="DCDCDC">        
-        <td><b><a href="https://www.datacamp.com/profile/danielpalacio" target="_blank">DATACAMP</a></b></td>
-        <td><b><a href="https://app.pluralsight.com/profile/palaciodaniel" target="_blank">PLURALSIGHT</a></b></td>
-        <td><b><a href="https://www.sololearn.com/Profile/13506786" target="_blank">SOLOLEARN</a></b></td>
-        <td><b><a href="https://www.freecodecamp.org/palaciodaniel" target="_blank">FREECODECAMP</a></b></td>
-        <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
-    </tr>
-</table>
 
 <table border="1px" align="center">
     <tr><td></td></tr>
