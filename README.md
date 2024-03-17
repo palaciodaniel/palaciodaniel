@@ -66,6 +66,25 @@
         </td>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td>
+            <br><b>[ <a href="https://github.com/dataquestio/solutions/blob/master/Mission755Solutions.ipynb">Predicting Employee Productivity Using Tree Models</a> ]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>matplotlib, pandas, scikit-learn</i>)</b></sub><br>
+            <br>
+        </td>
+        <td align="left">
+            <table border="1px" align="center">
+                <tr><td><br><sub><b>NOTE:</b> Since the solution is public, you will be redirected to Dataquest's GitHub account.</sub><br><br></td></tr>
+            </table>
+            <ul>
+                <li>This Notebook is a proposed solution for Dataquest's <a href="https://app.dataquest.io/m/755/guided-project%3A-predicting-employee-productivity-using-tree-models/1/introduction">Guided Project</a> on <a href="https://www.dataquest.io/course/random-forest-modeling-in-python/">Decision Trees</a>.</li>
+                <li>It is meant to teach students how to perform <i>data cleaning</i> on the dataset in order to eventually train a Decision Trees model.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
             <td>
                 <br><b>[ Predicting Psychotherapy Success with Machine Learning ]</b><br><br>
                 <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
