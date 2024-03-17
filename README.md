@@ -35,7 +35,7 @@
         <td><b><a href="https://www.freecodecamp.org/palaciodaniel" target="_blank">FREECODECAMP</a></b></td>
         <td><b><a href="https://app.dataquest.io/profile/licdanielpalacio" target="_blank">DATAQUEST</a></b></td>
     </tr>
-</table>
+</table><br><br><br>
 
 <br id="machine_learning"><br>
 
