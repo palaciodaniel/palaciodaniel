@@ -30,6 +30,24 @@
         <th>Description</th>
     </tr>
     <tr align="center" bgcolor="DCDCDC">
+        <td>
+            <br><b>[ Property Prices in Buenos Aires ]</b><br>
+            - <a href="https://github.com/palaciodaniel/property_prices_in_buenos_aires/blob/main/README.md" target="_blank">English</a> - <a href="https://github.com/palaciodaniel/property_prices_in_buenos_aires/blob/main/es/README.md" target="_blank">Español</a> -<br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=14% align="center"></a><br>
+            <sub><b>- Jupyter Notebook<br>
+            - Python (<i>matplotlib, pandas, scikit-learn, seaborn</i>)</b></sub><br>
+            <br>
+        </td>
+        <td align="left">
+            <ul>
+                <li>Working with a dataset about properties in Buenos Aires, across five different Jupyter Notebooks.</li>
+                <li>The steps include merging of datasets, EDA (Exploratory Data Analysis), data cleaning and visualizations in order to answer questions by the client who requested the analysis.</li>
+                <li>The project also includes creating and training a Machine Learning model (Linear Regression) to predict property prices.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
             <td>
                 <br><b>[ Predicting Psychotherapy Success with Machine Learning ]</b><br><br>
                 <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=17% align="center"></a>
