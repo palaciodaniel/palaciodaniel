@@ -467,7 +467,9 @@
     <tr align="center" bgcolor="DCDCDC">
         <td>
             <br><b>[ <a href="https://github.com/palaciodaniel/youtubes_intros/tree/main" target="_blank">YouTube's Intro Videos</a> ]</b><br><br>
-            <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br><br><br>
+            <a href="https://html.spec.whatwg.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width=14% align="center"></a>
+            <a href="https://www.w3.org/Style/CSS/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width=10% align="center"></a>
+            <a href="https://www.gimp.org/"><img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="GIMP" width=18% align="center"></a><br><br><br><br>
         </td>
         <td>The code used to create the intro animations on my YouTube channel's videos.</td>
     </tr>
