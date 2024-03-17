@@ -450,6 +450,13 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
+            <br><b>[ <a href="https://github.com/palaciodaniel/palaciodaniel" target="_blank">My GitHub's Profile Page</a> ]</b><br><br>
+            <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br><br><br>
+        </td>
+        <td>This page you are seeing now, actually.</td>
+    </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td>
             <br><b>[ <a href="https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing" target="_blank">Steam Summer Sale 2020 - Sold Trading Cards</a> ]</b><br><br>
             <a href="https://www.google.com/sheets/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/175px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width=10% align="center"></a><br>            
             <sub><b>{ Google Sheets }</b></sub><br>
@@ -459,10 +466,10 @@
     </tr>
     <tr align="center" bgcolor="DCDCDC">
         <td>
-            <br><b>[ <a href="https://github.com/palaciodaniel/palaciodaniel" target="_blank">My GitHub's Profile Page</a> ]</b><br><br>
+            <br><b>[ <a href="https://github.com/palaciodaniel/youtubes_intros/tree/main" target="_blank">YouTube's Intro Videos</a> ]</b><br><br>
             <a href="https://html.spec.whatwg.org/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="HTML" width=14% align="center"></a><br><br><br>
         </td>
-        <td>This page you are seeing now, actually.</td>
+        <td>The code used to create the intro animations on my YouTube channel's videos.</td>
     </tr>
 </table>
 
