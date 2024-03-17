@@ -17,7 +17,7 @@
         <th><a href="#programming" target="_blank"><span>&#x1F5A5;</span><br>𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</a></th>
         <th><a href="#other_projects" target="_blank"><span>&#x1F9F0;</span><br>𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a></th>
     </tr>
-</table><br><br>
+</table>
 
 <table border="2px" align="center">
         <tr><th>Programming Languages and Libraries Used</th></tr>
