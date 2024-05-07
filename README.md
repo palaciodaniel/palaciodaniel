@@ -266,6 +266,19 @@
             Building an interactive four-dimensional cube.<br><br>       
         </td>
     </tr>
+    <tr align="center" bgcolor="DCDCDC">
+        <td>
+            <br><b>[<a href="https://github.com/palaciodaniel/art_006_all_work_no_play/blob/main/art_006_all_work_no_play.ipynb" target="_blank">ART 006 - All Work and No Play</a>]</b><br><br>
+            <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width=10% align="center"></a>
+            <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width=7% align="center"></a><br>
+            <sub><b>- Jupyter Labs<br>
+            - Python (<i>random</i>)</sub></b><br><br>
+            <table border="1px" align="center">
+                <tr><td><a href="https://mybinder.org/v2/gh/palaciodaniel/art_006_all_work_no_play/main" target="_blank"><b>Interactive</b></a></td></tr>
+            </table>
+            Using code to emulate a legendary scene from "The Shining".<br><br>       
+        </td>
+    </tr>
 </table>
 
 <sub id="programming">[ <b>&#8679;</b> <a href="#top" target="_blank">BACK TO TOP</a> ]</sub><br><br><br>
